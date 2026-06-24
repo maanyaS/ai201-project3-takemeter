@@ -1,0 +1,1070 @@
+text,label
+"If recent grads are so much worse, why is the bar so much higher?
+I keep hearing senior engineers say today's CS graduates are weaker than their generation. Fine. But in 2018 you could land a $130k FAANG job with two leetcode easys, no projects and a 2.8 GPA from a mid school. Today you need four rounds of mediums and hards, multiple internships and three substantial projects just to get screened for $60k at a company nobody's heard of.
+If the 2018 cohort was so talented, why did the bar reflect the opposite? Most of those ""superior"" engineers wouldn't survive today's process cold. The bar didn't rise because grads got worse it rose because grad got better.",opinion
+"Supply & demand. The bar raised mainly because companies are shedding workers en masse now that interest rates are higher, and to a lesser extent due to AI. They'll need new blood eventually, but supply & demand will rule your entire career. That's why I'd focus on learning in-demand skills that others aren't, and that aren't so easily outsourced.",opinion
+"What is expected of an intern?
+For context I’m doing a backend software engineering internship at a fortune 500 company.
+
+And lately it feels like the expectation is insane for someone still learning. I understand that internships are meant to be challenging, and I do want to contribute meaningfully. But at times it feels less like “learn while contributing” and more like I’m expected to operate close to a full-time engineer with much more experience. It’s kinda hell when you’re the only intern/junior level dev in the team too.
+
+Additional context: i have merged reviewed request to main for a service that’s actively in production.
+
+I’m working on backend tasks in prod, and have been questioned on my pace. Tbh I don’t mind being pushed, but I’m finding it hard to tell whether this is normal industry expectation or whether the bar is unusually high because AI exists.
+
+TLDR:
+For people who have been interns, mentored interns, or worked with backend interns:
+What is a reasonable expectation for a software engineering intern?",advice_seeking
+"Right. Honestly, I dare to say that people were more competent back then, because we did not have AI as juniors.
+There's something about recent graduates nowadays, where they overestimate how competent they are.
+But the job market sucks, that's true.",opinion
+Should I make a reasearch based fyp or product based fyp?? Graduating next year 2027,advice_seeking
+"I'm losing all hope in the job search - need motivation
+I've just come up on a year of job hunting since I graduated last year for Data Science and after hundreds of job applications, I've gotten a grand total of 2 interviews, both of which went nowhere.
+
+I thought I did everything right. I went to a top school, had a good gpa and some solid club experience (nothing crazy but still), an internship (no research though), and am a US citizen who thankfully didn't have to deal with the international struggle. I accepted an analyst position after graduation, which I thought would maybe help me, but all I see around me are friends and people I graduated with earning literally 1.5x-2x as much as I am making post grad, in reputable companies with a ton of growth potential and responsibility. Meanwhile, i sit around begging for work half the time, and am gaining such little valuable experience with barely any opportunity for growth.
+
+I've tried every option to get my resume reviewed, and I'm so confident that it's tight, so I have no idea if it's just something wrong with me.
+
+I'm at my wits end, and I just keep thinking ""what's the point"" every time I submit another job application.
+
+This might be a far cry, but if anyone has motivation or inspiration from their own lives or people they know, especially if they had a similar struggle to me, I'd really appreciate it :) I really need a reason to not give up.",rant
+"I give up - software was my biggest mistake in life so far
+Despite what may seem from the text I am not suicidal, just regretting a lot. 
+
+I give up. 
+
+Getting into software engineering was my biggest mistake in life so far. I grieve what my life could have been if I had chosen something else. 
+
+I have developed an interest in programming early. Most of my childhood I struggled socially so that's what I did a lot. Went through it all - Python, Arduino starter kit, daily-driving Linux, learning C.
+
+Got my first internship at 17, a good company, not FAANG, but a major player in its field. Same year I started university, of course a CS degree which I have since changed to part-time and remote form of study to work more. Went full time at the same company. 
+
+Despite all that I was never good-good - at this point I was programming for five years and had one semi-complete personal project, didn't want to sit down and study architecture, algorithms, smart words, best practices, didn't contribute to open source, hadn't done a single leetcode problem, didn't want to learn my tools - shortcuts, shell, build systems, and I never participated in any events, won awards, or even cared to. I was not, as kids say, cracked. 
+
+By the time I got this internship I stopped programming for myself entirely. Back then I thought it was because I got a job, but now I recognise that me meeting new people, taking up analogue hobbies, and starting to take me playing an instrument more seriously might have been the real reason.
+
+And when I went full time I did so knowing I have no passion, and even no real interest in software engineering. In my life I have met people who did. Who were happy to spend their weekend evening trying out a new tool which name I didn't know and which function didn't understand. I want one of those people. Never was. And I was fine with it and with working being indifferent just to have money for things I actually love. 
+
+Then AI came. At first I disregarded it, then I began to hate it for many reasons you all heard many times now. Ever since 2022 I had made total of three prompts - one when ChatGPT came out to see what it is, and two for an assignment where it was required. 
+
+The coding models came. My colleagues started using them. I didn't. To this day every line of code I have ever commited, is written by me, my own hands, and my own mind. they started pushing me AI-generated (or ""AI-assisted"") merge requests and for the first time despite my hatred of reading code I reviewed diligently to try to find a major flaw a senior develop has missed. I wanted to have an argument as to why AI had no place in our work. Maybe I am just bad, but I didn't find one. I had to approve. Then the next one, and the next. I didn't care for finding anything anymore. What's the point, it's good enough. 
+
+Indifference turned into disdain. 
+
+Then I thought. For the first time I thought what did I like in IT, and the only thing I was able to come up with was translating the idea of what has to be done into code. I didn't care for designing the systems, I hated reading other people's code, even when some can find beauty in it. It was the only thing that managed to bring me a bit of joy in this field of work. And now it was the first thing to be gone if I was to start using AI. It took the only thing that made it bearable from me.
+
+I am typing this sitting at work, feeling pressure to start using the technology I hate in the profession I have to tell myself ""I will make it through today"" just to start the work day, fully understanding that I might become unemployable because I don't even know what an ""AI agent"" or ""an orchestrator"" is. Dreading each meeting for the fear of hearing about AI getting better again. 
+
+I grieve what my life could have been if I had chosen something else. Getting into software engineering was my biggest mistake in life so far. 
+
+I give up. ",rant
+"Interview tomorrow
+Amazon interview tomorrow how do you fight the nervousness. I prepped a good amount but still feel really nervous.",advice_seeking
+"Vibe coding as a CS major doesn't make sense
+Let's be completely real here. If you vibe code - like truly vibe code - as a student in this major, it might be time to find a new home.
+
+By vibe coding, I mean genuinely writing little to no code by hand and letting your AI do it instead. Pretending to be an orchestrator while the AI does all the real engineering. Not struggling through a problem, and instead mistaking speed for competence.
+
+Most of the people that I know who do this say that it's to ""get comfortable with agentic coding"". But the result is catastrophic: You're paying companies to do the job that you want to get paid to do.
+
+The standard defence of industry professionals is that AI can't be a real software engineer because the experience of building things on your own gives you judgement and skill that are impossible to replicate with AI. Judgement and skill that can even be used to guide AI agents if willing. But if you spend your college days skirting around experience by outsourcing to an AI, you have no value. There is nothing that you have that an AI doesn't. You don't build the judgment, you don't build the experience, you don't build the intuition for what does and doesn't smell.
+
+Even worse is the fact that you lose the ability to make new things. AI isn't actually able to do something that has never been done. It can pretend it does by hacking together a bunch of stuff that has been built, but this isn't true ingenuity and leads to significant technical debt. You lose the most valuable human resource in this field: ingenuity.
+
+If you're vibe coding in college, you are genuinely utterly cooked. It is impossible to justify your value to this industry.",opinion
+"As someone with 20+ YOE you are absolutely correct OP. When we hire people, we know they all use AI. AI usage isn’t the unique selling point. It is what else you bring to the table and most of the skills are hard heard. If a new grad can only use AI to solve tasks, why hire the new grad in the first place?",opinion
+"Would I'd be considered underemployed if I joined the army as a cyber operations specialist?
+The title basically. I will graduate with a software engineering degree and I'm done with leetcode, I'm just not fast, I can understand the questions and find solutions, but it takes me too long to write them, also sometimes I straight up just don't understand how the solution comes to be sorted in the way presented. Also my math is not mathing, for every 200 apps I might've gotten 2 interviews. I already took the asvab and got an 88, for those saying join as an officer, you don't pick your job, and the application process is very selective. I also discarded the space force and the air force for this very motive edit: (you don't pick your job).",question
+"Where is the evidence that the hiring bar is significantly higher now?
+I’m not a new grad, but I’ve been doing interview prep for mid-level roles and I do competitive programming as a hobby so I’m aware of the sort of the questions that come up on interviews these days.
+
+Other than that one FAANG company in 2020-2022 doing the stupid 1 round new grad interview, I’ve seen no evidence myself that the bar is significantly higher.
+
+There are just fewer jobs. So, each step of the application process, you’re more likely to be ghosted.
+
+I conduct interviews for new grads and mid level SDE at that aforementioned company. We’ve always had the lowest interview bar amongst FAANG, generally speaking. We still have like a ~10 percent pass rate for new grads and ~5.
+
+If we notably increased the bar, we just wouldn’t be able to find candidates. Even in this market. So, instead the bar is retained, and more people just get ghosted.",question
+"Is quantum computing relevant to study right now?
+I'm in my last year of master's degree, and during my last pentesting class a few days ago our teacher made us do a bunch of exercises on post-quantum cryptography.
+
+He insisted on how important for us it is to start learning quantum computing now because it's starting to become an important topic in the tech field and it could make us land really well paying jobs, according to him.
+
+I get it being useful for cryptography with algorithms like ML-KEM gradually being adopted by huge actors like governments, but is it really relevant to study now rather than classical CS? Most job openings I see don't even mention quantum computing, except maybe a few in research labs and universities. It's an emerging technology so will it really impact ""classic"" tasks in cybersecurity? To be honest I don't know what it's used for in the field except cryptography, but my teacher was really convinced of it being the next big thing, he sounded like someone in 2011 telling us to buy BTC lol",question
+"Amazon 2026 New Grad Offer before Graduation
+Hey everyone,
+
+I got my offer for SDE1, but I still have one course left before graduating with my SWE degree. In the offer, Amazon expects graduation before October 1, 2026.
+
+Here’s my situation: I've completed all my courses except 1 that is offered only in the Fall of 2026.
+
+Has anyone here been in a similar situation? Would Amazon allow me to delay the start date slightly? Or is there any other plan I can do to make sure I start accordingly?
+
+Any advice or past experience would be super appreciated.",advice_seeking
+"new to cs
+Hello everyone
+
+I’m just starting my Computer Science journey and honestly feeling a little overwhelmed by everything there is to learn.
+
+For those of you who are already studying or working in the field, what advice would you give your beginner self? What should I focus on during my first year, and what skills are most important to build early on?
+
+I’d really appreciate any recommendations, experiences, or lessons you’ve learned along the way.
+
+and please ‏I’ve already heard enough negative comments about the major, so I’m mainly looking for constructive advice and real experiences.
+
+thank you.",advice_seeking
+"is it fine to be behind in math / graduate in 5 years?
+Good Evening Everyone. Today I went to my college orientation where I enrolled in my Freshman Classes for the Fall. My issue is that I've just had some wishy washy stuff that has happened and now i'm going to be behind in Math by a decent amount which will push me from a 4 year grad plan to 5 years now.
+Is this a somewhat common experience? It's just making me feel super unmotivated and worried. I'm feeling as if this will mess up my opportunities in the future such as jobs or internships. As much as I love the field of computer science I just can't feel anything else but demotivation because of this current situation. I just feel lost and wondering if I should even pursue it anymore.",rant
+"How to take notes on Clean Code second edition?
+I am an entry level software engineer. I was recommended to read “Clean Code: A handbook of agile Software Craftsmanship Second edition” by my mentor who is a principle engineer. How do I properly take notes on this book so I can retain the information?
+
+And how can I apply the teachings to my actual code? Sometimes the points can be broad to me and I find it hard to apply it to my code.",advice_seeking
+"Learning while in college
+Is it wise to try and learn and do projects while in college or at least over breaks?",question
+"My parents insecurity over my job has made me depressed
+I love programming. I fell in love with programming when I was really young and it’s been the one thing that stayed with me for all my life. Every day after work, I go to the library so I can squeeze 3-4 hours of study time and read something new about programming. Lately give been learning rust in my free time, learning into how models work in production, multi threading… the list just goes on.
+
+I recently graduated my computer science degree and I’ve been working as an intern for Fortune 500. The pay isn’t great, just minimum wage but my boss has given me the thumbs up for a full time offer with the catch being as long as HR approves.
+
+So I’m pretty content. I got lucky with internships I guess, I mean I’m not doing anything distributed systems related right now but at the time I got this internship (it’s been over a year now) I was really happy. Recently they got me started on rewriting the frontend of the entire application, so work is there for the next year or so.
+
+My parents on the other hand are completely ruining me. Specifically my mom. Every other day my mom subtly tells me I should find another job. It’s the same subtle punches I get alongside the guilt “oh but ur 25 now”
+
+I’ve told them over and over again, wait. I’m figuring things out, learning new skills, I’m not giving up.
+
+But it’s the same fucking thing. My sister today told me I should find something at where she works (all business analysts positions) with really nice pay.
+
+I do not give a flying fuck about pay.
+
+All of this external pressure is just making me depressed at this point. I would be completely and absolutely happy doing engineering work even if I’m paid less than 20 an hour.
+
+Anyway that’s it",rant
+"Why senior devs are about to have it really good and new grads really bad
+Companies have basically stopped hiring and training juniors, so there's no new generation coming up to become mid/senior in 5-10 years
+
+while the current experienced pool only shrinks (retirement, career switches) and demand for experienced engineers stays flat or grows
+
+As a result great market if you already have experience (rising pay, real leverage), brutal if you're trying to get in with no entry door and entry level jobs wanting 3 years.
+
+And it won't self-correct companies skipping juniors now will just poach and pay more later instead of training anyone.",opinion
+"quit faang and cant find a job
+quit faang (not a) after 1.5 yoe and haven't been able to find anything since. passed hc at snap and jpm but didnt get matched to a team.
+
+have done 7 onsites and dozens and dozens of different rounds. solid on coding and system design, getting fucked on this new ai coding format - every company does something different with it. it just feels so hopeless. 8 months unemployed, rejection after rejection, it just starts to feel so hard after a while. burning savings, running out of everything.",rant
+"Broke into faang, now what?
+Was extremely lucky to get a faang+ swe internship and a return offer. What’s the best path to ensure job security? Stay at the company for as long as possible, or build up my resume? What’s the safest route?",advice_seeking
+"Has anyone heard back from the MATS Fellowship yet?
+I applied to the Empirical and Systems Security tracks and haven't received any update so far. I'm wondering if decisions are still being rolled out or if others in these tracks have already heard back.
+
+If you've applied to either of these tracks, have you received any communication from MATS? Any information would be appreciated.
+
+Thanks!",question
+"Vibe Coding through internship
+In summer internship right now and am a serial vibe coder. I feel like I’m doing a ton of heavy lifting for my team and if I didnt use Claude religiously, we would drown and never meet deadlines. I actually have very skill and cannot code by hand. Like whatsoever. I’m completely unfamiliar with the stack and I just have a good idea of the whole system. So I just point Claude in the direction.
+
+Should I not be doing this? Remember we would drown if I didn’t so idk if it’s worth it. I also don’t have time to learn since I’m constantly vibing. Help?",advice_seeking
+"It's a trap, vibecoding has limits which you don't want to start finding out about once you're 10k or more lines of code deep in technical debt that's so convoluted you'd struggle to unravel even if you we're actually using this time to improve your development skills. Every little thing you vibecode has a bunch of different ways to go about it, and the LLM often doesn't pick the best approach without a human in the loop, and all those mistakes add up over time.",opinion
+Pick one and get started. You don’t have to be an expert at any of these things. The “full stack” junior engineer is a myth. Learn the basics of react and you’ll gain a functional understanding of typescript as a bonus. You can get a functional understanding of Git in an afternoon too. I can understand why it seems daunting as a whole but break it down into pieces and chip away at it. You will have no one but yourself to blame if you walk away without learning anything this summer.,opinion
+I think if your team cannot survive without an intern then it has big problems.,opinion
+You shouldn't be doing this if you want to be employable. Even places that allow you to use AI will require you to be able to code without it in interviews. Work on learning the stack.,opinion
+This will probably start to change. I've already had interviews that just require writing pseudocode and also assessments that let you use coding agents. Its probably still good to learn logical and algorithms but domain / language specific knowledge is likely to be less important. It takes time for hiring to adjust and the tools are improving every couple of months.,opinion
+"Not understanding how to program well goes much deeper than lacking domain/language specific knowledge; the hard part was never the syntax. The entire crux of programming with LLMs is having the depth of knowledge to know what output is good/scalable/sensical/extensible. I do think AI will continue to be available in certain interview rounds, but betting on it becoming the only standard that candidates are graded on is incredibly risky. If we’re at the point where any layman can generate ok looking code without understanding it, wouldn’t that create more incentive for companies to verify that you can also do it by hand?",opinion
+"Anyone else find that using AI less actually keeps them more productive?
+Currently interning as a SWE this summer. I use Claude Code on the side, but I’ve found I like doing a decent amount of the implementation myself instead of having AI generate everything.
+
+Part of it is not wanting to burn through all my Claude tokens, but the bigger reason is that it keeps me in a flow state. When I’m just prompting AI over and over and reviewing the output, it starts to feel like pulling a slot machine lever. It’s efficient, but I find it kinda boring, and I also feel like things can get messy faster.
+
+Even if doing more myself makes me a little slower in the short term, I feel more engaged, understand the code better, and stay motivated longer.
+
+I know this might sound obvious, but does anyone else feel this way? Not necessarily because of learning, but because coding a decent amount yourself keeps you more locked in and motivated?",question
+"Do people really take gap years in college for fall/winter internships
+i don’t have an internship yet but i told my parents i would take a gap year if i did get an internship offer and they straight up disagreed. they argue school comes first and the job comes later. i call bs on that cuz i could delay my graduation and still graduate but it’s hard to get a job. school is always there, the job isn’t. also i could learn real world experience from jobs than theoretical shit at school.
+
+have people who had internships been in this situation before? do you guys take fewer classes but online while doing an internship or take a gap year?
+
+what are your thoughts and perspectives?",advice_seeking
+"i had a similar conversation with my parents and they said that it was a bad idea. i think this is just a matter of lack of perspective for the CS field.
+it's not uncommon to take an extra year for the sake of a co-op or an internship. in fact some schools are dedicated to it. if the internship is for a good company that will open up doors for you, that is incredibly valuable. the whole point of going to college is to provide you those opportunities.
+some people will take online courses so that they at least are still making progress, some completely take a pause on schooling to focus on the work.
+i would vote that if the opportunity presents itself, to pursue it.",opinion
+"In terms of actually getting a career, internship is easily more important than actual school. However parents likely assume school is the actual important part because that's what ""respectable adults"" make it seem like is the responsible safe thing to do. Obviously don't fail your classes but I would definitely delay classes longer for actual paid confirmed work experience. There is no benefit to graduating faster unless it saves you money",opinion
+do you think remote jobs/internships still exist? i feel remote work is slowly starting to fade but take it w a grain of salt,question
+"Long shot but I was wondering if anyone had experience with Tesla SWE internship interviews
+Hi y'all
+
+Have a Tesla SWE internship interview coming up and I was wondering if anybody had any sort of beta for it. Most of what I've found online seems to be 15-30 minute interviews in phases but the one I have coming up is about 90 minutes. Bit scared of what to expect and I'm having some personal issues right now so knowing what to expect would take some stress off.
+
+Thank you.",question
+"Why is CS talked about the most for be replaced when it’s seems safer than most white collar jobs?
+Everyone talks about CS jobs being replaced by AI but the avg white collar worker makes slide shows.I understand it’s mostly due to the pay but still. I feel like shouldn’t the focus be on like so many other industries besides CS like people think Google is going to push prod code by someone that doesn’t know what python is but guy making leader ship slide shows that says nothing in his 60 minute presentation is the safe one does this not sound a little crazy.",question
+The honest answer is because the strategy being used by all the major labs is to make the models really good at coding in hopes of hitting recursive self improvement so that they will automate the task of improving them selves and make solving the other roles way easier.,opinion
+"Is it worth it to go to a mid school for CS?
+I wanna major in CS but I probably won’t end up at a T5 for CS for financial reasons + I’m not that cracked, but would it still be worth it to major in CS if its at an average school? Like I know with the current job market the prestige and name of your education matters a lot, so would I be at a disadvantage? Should I just look to major in something else?",question
+How did you land your first job?,question
+"I am telling you this is reddit fearmongering. There are tons of jobs in less desirable cities with less desirable pay. You just have to be willing to go get them. Plenty of companies still want to hire you for 60k and can’t even afford AI token usage. You use that as a springboard for experience if it’s the best you can do. Let me tell you, it’s 100x better than being unemployed.",opinion
+"yeah people are convinced that you have to intern/start at a well known company to have a good career, but that’s not true. i think it’s a lot more common to get your first job and then pivot and use that as leverage to get a more desirable job",opinion
+"Internship Rant
+When I scroll this reddit all I see is people talking about the interviews they are getting.
+Everyone talking about getting 40+/hr for internships at these companies, meanwhile I am struggling to get interviews for any internship that pays 15/hr. Is anyone else in this boat? It feels like everyone posting is just the winners.
+
+Where my strugglers at?",rant
+"Its just bias, people with interviews are more likely to talk then people who don't have interviews",opinion
+"I need some advice/I need to rant ..... slowly losing it
+Hello all,
+
+I know everyone is having a tough time, including myself but i am slowly starting to believe that it's pointless to apply. For context, I graduated in June 2023 with no software development experience except being from a top school in Canada and some school projects on my portfolio. I worked in a job not related to my field to pay off my student loans, and started to apply to jobs as a software developer but went through countless job applications and couldn't get anything. Seeing the struggle in getting a job, I pursued and obtained a CCNA certification to boost my employability. After doing so, I got an interview through the job not related to my field and most likely will not get the job but haven't heard back. I am approaching 2 years to being out of university and I concerned I will never get in and that I will have wasted my degree on getting a job that could of easily been gotten without going to school.
+
+I don't know, I struggled and sacrificed so much from high school through university and even till now. I supposedly did everything correctly but it hasn't lead me anywhere. I am tired of applying, I am tired of suffering it just sucks, and people keep on telling me its going to get better, but when? I see my mistakes in university and things I could have changed and it eats at me thinking that if I had only changed that my situation would be different now. I know people that have told to keep on applying but for what? I know I have to constantly add to my skills but it's discouraging to say the least. I don't know, I need advice. I have tried to network and ask for advice but nothing seems to work in landing a job. I see people that went to school the same time as me that have a job, and that eats at me as well. I think I royally screwed myself through whatever I did and I am just finding out now.
+
+Thanks for reading my rant, any advice would be appreciated",rant
+"Quick Rant 🤧
+I honestly don’t blame people who are dropping out of CS majors. Nobody wants to study CS anymore because, when calculating the stress-to-reward ratio, you could argue it isn’t worth it. The process of becoming a successful CS major is exhausting. To get an internship, you have to go through countless rounds of LeetCode assessments and technical interviews just to land a $30/hr internship. CS grads are out here with thousands of dollars in student debt and no jobs. The truth is, most of these new grads are incredibly skilled; they’ve worked on amazing projects. However, the reason they aren’t getting these jobs is because companies have raised the bar so high that it’s nearly impossible for a new grad to reach. Imagine having to go through five rounds of LeetCode/technical interviews just to get an internship—it’s absurd!",rant
+"CS is the new finance/consulting. Long and drawn out interview process, recruiting from top schools, highly selective, network driven, and lucrative career. The industry has raised the bar because there’s over saturation and skill issues in the hiring population. I’d argue CS is still the best career with high pay to hours worked ratio. The biggest stress is your first job.",opinion
+"this sub gives me nothing but headaches
+every post and comment I see ping pongs between “yea its hard rn but its doable” and “jump ship, this is not a functioning field, and you are dumb for even considering this major.”
+
+I can’t tell whats good advice and whats simple pessimism anymore.",rant
+"My Rant and Promise To Myself
+I'm a current junior from a T60 university and I'm interning at a pretty big aero company this summer (you can probably guess what it is). This all sounds great but I'm so pissed at myself this year.
+
+I had my first internship sophomore year and my upcoming internship and I got it from a conference, where basically only behavioral questions are asked so the bar is not that high. Unfortunately, because of this, I got complacent and never bothered to try and improve myself in DSA as well as System Design to get better roles.
+
+Fast forward to this year, I've realized that I don't want to just settle and actually want a role where I have the chance to learn and thrive and set myself up for a stable career. However, because I got complacent, I haven't done my leetcodes and was unfamiliar with many common DSA topics and have thus failed interviews at companies like Tesla, C1, ServiceNow, PayPal, etc. I'm mad at myself because those were legitimate opportunities that I pretty much threw away because I didn't prepare myself adequately.
+
+Now, I'm faced with what I want to do for full time applications in about 4-5 months. I'm going to take my current internship I have but actually lock in and grind the hell out of leetcode and system design for when full time apps come out. If I managed to get interviews this year, I think I can get some when the next hiring season comes and hopefully I'll be able to pass at least one of the interview cycles this time.
+
+Sorry for the rant, but I'm writing this for myself to keep myself in check as well as prove to myself that I can do this.
+
+If anyone has any resources, please drop them in the comment section for me. I'm currently using the Grind 75 and Algomaster for DSA and Hello Interview for System Design.
+
+Thank you for coming to my TED talk.",rant
+"Post Interview Rant
+Today i realized that i don’t deserve shit. Got to the last round of this great company. In this shitty market, it was a dream scenario. The interviewer seemed chill. But i had different plans. He kept giving me hints during his behavioral questions and i kept putting shitty points only to realize later that i was wrong. Couldn’t answer a few questions as well.
+
+Moving on to the coding round, i gave a non optimal solution on purpose and then we discussed and moved to an optimal one. Second question was related and i tried a sub optimal and then optimal approach. He kept adding additional requirements which weren’t too difficult and i kept making minor changes. Eventually i solved the problem but he kept insisting on why the previous method wont work. In the end he said that i should study the stuff i put on my resume in detail. I feel so horrible that i missed this chance. Waiting for a reject while overthinking is killing me. Less positives than negatives from this experience for me.",rant
+"It’s sad this sub turned into A2C kids whining and crying about the job.
+I used to lurk here because of the occasional quality posts that were actually helpful. Now I can’t go past two posts without some doomer with zero soft skills complain about the market. I think we can do better than sitting on our asses and complaining on reddit all day, please quit the doomposting and make this subreddit resourceful again please 😕.",rant
+"Why is everyone so negative?
+I legit love programming and want to get into SWE but it's difficult geographically for me and being a fresh graduate isn't best where I am rn. But even then I'm very positive and I never got into this hoping to make a shit ton of money, I knew I'd have to work my way up, like where I live and where I studied there's no possibility for FAANG at all. For those still doing their degree, take the non-faang internship, gain experience, you won't suffer, it won't be the cash grab you imagined but it's still very good. No matter how many new ""AI that will replace SE"" come in, as long as you're doing your job, you won't be replaced. There's still factory workers even though those jobs are redundant and replaceable.",rant
+people with zero soft skills still get jobs,opinion
+"Can the mods do something about the the toxicness of this sub?
+I want to preface this by saying this forum is a pretty great resource for early career help. Posts here helped me get my first few internships, and I'm thankful that a free and public resource like this exists for people.
+
+That being said, I don't participate here but mainly lurk cause of how fucking toxic this place gets. Of course, that's par for the course for career-fixated CS Majors and Reddit in general, so you would expect the intersection of the two to be pretty obnoxious, but how are the mods letting some of this shit slide? The amount of punching down and elitism masqueraded as shitposts and jokes are tiring and make me not want to associate with any other engineer.
+
+Like take this post that's obviously making fun of another poster who was excited about their internship that made it to the front page that's been up all day. But this is just one example of the overall sentiment here. There are jokes, and then there's just being an asshole. For a bunch of early professionals, a good portion of people here act like immature high schoolers. Behavior like this drives people away from the field. Why are mods okay with it when all it does is taint what a positive resource this forum can be?",rant
+"worst interview of my life
+I just need a place to rant lol. I've been looking for internships like a maniac and I somehow managed to get lucky and landed an interview with JP Morgan.
+
+THE INTERVIEW WAS SO UGLY.
+
+it was on hirevue where basically an AI is interviewing you. you sit in your room and the a question pops up on the screen and you answer it. on video. to yourself. YOU'RE YAPPING TO YOURSELF IN YOUR ROOM. HOW IS THAT AN INTERVIEW.
+
+and then the AI scores you and decides if you're worthy enough to get interviewed by a person.
+
+WHY. WHY. BRO I FELT SO AWKWARD AND WEIRD. I BLANKED OUT ON TWO BEHAVIORAL QUESTIONS BECAUSE I REALIZED THAT IM IN MY ROOM. HAVING AN INTERVIEW. BY. MY. SELF.
+
+I'm gonna be unemployed forever. I'm so mad at myself for doing absolutely ass.
+
+on the bright side, since I'm 99% sure it's so over, at least I won't have to commute for an hour on the fugly metro.",rant
+"Third-year student, know Python, built and deployed SaaS projects, want an internship in the next 2 months. What should I focus on?
+Hi everyone,
+
+I'm currently a third-year college student and I'm trying to get an internship within the next 2 months so I can start earning for myself and gain industry experience.
+
+My main programming language is Python. I've built a number of projects with it, and over the past year I've also been experimenting a lot with AI-assisted development. I've vibe coded and deployed 4 SaaS tools, and I've used AI tools to create websites, including some interactive 3D websites. While I can build things and get them deployed, I know that using AI tools doesn't replace having strong fundamentals.
+
+The issue is that I feel my core CS foundation isn't that strong yet. I haven't properly studied Data Structures and Algorithms, and I haven't spent time grinding LeetCode. Part of the reason is that it seems like everyone is doing LeetCode these days, so I'm not sure how much of a difference it actually makes compared to building real projects and learning practical skills.
+
+I'm also interested in AI and Deep Learning, and that's the direction I'm pursuing in my degree. However, I haven't put in enough focused effort yet to become genuinely good at it.
+
+My goal is to use the next 2 months as efficiently as possible, build valuable skills, and apply aggressively for internships.
+
+Given my situation:
+
+Third-year student
+
+Python is my strongest language
+
+Built and deployed 4 SaaS projects
+
+Can build websites with AI tools and deploy them
+
+Interested in AI/Deep Learning
+
+Weak foundation in DSA and algorithms
+
+Little to no LeetCode practice
+
+Want an internship in the next 2 months
+
+Willing to study several hours every day
+
+What would you do if you were in my position?
+
+Would you focus on:
+
+DSA and LeetCode?
+
+Full-stack development?
+
+AI/Deep Learning?
+
+Data Science/Data Analytics?
+
+Cloud/DevOps?
+
+Building a stronger portfolio?
+
+Also, how important is DSA for internships compared to having real deployed projects?
+
+I'd appreciate honest advice, especially from people who recently landed internships or junior developer roles.
+
+Thanks!",advice_seeking
+"wtf do we study?
+Imo moving away from leetcode made shit worse because at least with leetcode we had a well known thing to study for interviews and OAs. what is it now? hacker rank? ai prompting? do we still need leetcode?",rant
+"What a shit life
+Ok. Pursued CS, doesn’t matter now if it was right or wrong choice, because im already more than half way through. But WOW. I just feel so fucking soulless like a zombie fr. I have to grind endlessly, not in a way where I work hard to learn the stuff that makes me feel fulfilled and get a job in a decent environment (where people aren’t trying to sabotage you or get you into their dumb corporate politics) and have work that makes impact while having a work life balance. Some people are so miserable, me saying I want these is them thinking I want to do nothing all day and be fed still.
+
+Anyway, I really do feel soulless, and like a zombie now. Like do this project, that project, oh wait, your project wasn’t good enough, gotta do another one now. Fight for an internship, oh yes companies think you are super worthless for being a beginner because they want students with 2-3 internship experience now. Ok?? And where do you think im gonna get those experiences? Out of thin air? You gotta suck the shit out of these people to prove your worth, so work for 2 people, do the same work as someone getting paid more than you for it just to have half ass security within the office. And before some of you get triggered reading this, disclaimer, im not saying I or anyone should be hired with no experience (projects should show interests and some experience) and no interest. Constant ghosting is a thing too. And I don’t think it’s just CS, it’s finance, accounting, etc all those tbh.
+
+I want to create things and be part of an exciting company project with a good team. But to get there, we’re told you gotta hustle, do this, do that, but those this and that are kinda looking so pointless now. It feels like being told to hustle to end up in a void.",rant
+"I think for SWE practicing domain driven modeling, requirements and API design are not talked enough. I followed my internship employer's advice to read the domain driven design book and I think it's something that determines the difference between junior and more experienced developers. In my project for my internship the design phase was the hardest part.",opinion
+"like literally just go on any job ad and see what they want. its always some ""experience in developing AI-integration blah blah"" into their tech stack now. no way are schools going to be able to teach this shit",rant
+"Job relevancy in spring boot java
+Hi there, see i have 0 issues with java, and i have been creating projects in java now for more than 2 years.
+
+I am 3rd year college student and i am unable to find internships, that's the sole reason.
+
+I have learned language (rust), and now i am confused about rust, should i really focus on rust, that is because i have my hands really tied here, i am doing dsa too, and now i will be going to be in 3rd year, so i have my other things to do too.
+
+I want your suggestion, should i focus on rust, i wont leave spring boot, will be creating good projects in combinations of it, ( my specilization is devops too), and i have knowledge about os and networks too, made a project about that.
+
+What do you say, solely based on entering as a backend dev main, and for the referral part if you say about spring boot, consider no help, i have asked many but got no help.
+
+Other than that, i am building my network as of right now, maintaining linkedin and github too.
+
+Thanks, any suggestion will be appreciated.
+Thankyou",advice_seeking
+"Leetcode was never a good thing to focus on. Did they use it for interviews? sure but it never translated to anything related to the job. There’s a reason you’re asking this very question because you were led to believe this fallacy that solving coding puzzles mattered. Solving real problems with real constraints is what’s important along with communicating effectively, taking ownership, and breaking down problems. Learning how to demonstrate those things in an interview is much more valuable then memorizing any solution. If you can do that, then you’ll be golden.",rant
+"What careers are those? I’m noticing I really like databases and creating the queries, but I don’t know if I should pursue something like database administration since the role is declining over time. Do you have any advice on different careers you can pursue?",advice_seeking
+"Shit sucks fr, i graduated almost a year now with 4 internships and can’t land a single fucking job, i feel like a zombie too.",rant
+"When do new grad SWE interviews actually start for fall 2026 cycle?
+December 2026 grad here actively prepping for interviews. Apps seem to open mid-August? But I'm trying to figure out when companies actually start scheduling and conducting technical rounds.
+
+Two questions:
+
+What date should I be fully interview-ready by to catch the bulk of the cycle?
+
+When does the window start closing - i.e. when does it get significantly harder to land something?
+
+Would love to hear from anyone who went through the fall new grad cycle recently.",question
+"these lazy mf do not want to train nobody anymore. They just magically want someone who knows everything from day 1. and NOBODY is calling them out for it. Instead, applicants get called lazy for not knowing enough.
+Internships always had the definition of a student wanting to GAIN (not come with 1-2 years of experience bullshit already) experience within a company by being able to apply their project skills and academic knowledge in the workplace. Now its about, ""hmmm how can we pay someone less under the title intern while giving them junior level work."" Disgusting.",rant
+"For context I’m doing a backend software engineering internship at a fortune 500 company.
+And lately it feels like the expectation is insane for someone still learning. I understand that internships are meant to be challenging, and I do want to contribute meaningfully. But at times it feels less like “learn while contributing” and more like I’m expected to operate close to a full-time engineer with much more experience. It’s kinda hell when you’re the only intern/junior level dev in the team too.
+Additional context: i have merged reviewed request to main for a service that’s actively in production.
+I’m working on backend tasks in prod, and have been questioned on my pace. Tbh I don’t mind being pushed, but I’m finding it hard to tell whether this is normal industry expectation or whether the bar is unusually high because AI exists.
+TLDR:
+For people who have been interns, mentored interns, or worked with backend interns: What is a reasonable expectation for a software engineering intern?",question
+"How much was your starting salary as a new grad?
+Curious what everyone's starting compensation was as a new grad. I know compensation varies a lot based on COL but if you're comfortable sharing:
+
+Position/title
+
+Base salary/TC
+
+Location
+
+Graduation month/year
+
+Bonus questions:
+
+how long did it take you to find a job?",question
+Could you elaborate on what type of coding questions you got? By easy do you mean like leetcode easies or just east concepts,question
+Were you lucky in the sense that the interviews didn’t have coding rounds?,question
+How do you like remote right off the jump as a new grad? I was thinking abt it too but people say it’s better to be in office starting out?,question
+"Sounds like a very rare compensation structure, when/where was this?",question
+"Here's how I'm currently thinking about my future. What perspective might I be missing?
+Here's how I'm currently thinking about my future. What perspective might I be missing?
+
+Current situation:
+
+21 years old
+
+Computer Science student
+
+Learning web development
+
+Building demo websites
+
+Trying to get freelance clients
+
+Interested in business and entrepreneurship
+
+Long-term goal is building significant wealth and eventually owning scalable businesses
+
+My current thinking is:
+
+Learn a valuable skill.
+
+Get clients and gain real-world experience.
+
+Increase income.
+
+Build systems and processes.
+
+Eventually build something that can scale beyond my own time.
+
+On paper, this seems reasonable, but I've noticed that people who are much further ahead often see things that younger people completely miss.
+
+If you were looking at this plan from the outside:
+
+What assumptions might be wrong?
+
+What would you challenge?
+
+What important factor am I underestimating?
+
+What blind spot do you think someone in my position is most likely to have?
+
+I'm not looking for motivation. I'm interested in perspectives that could save me years of going in the wrong direction.",advice_seeking
+Did you have to do leetcode questions for those interviews?,question
+"Leetcode is BS, or maybe I’m just dumb",hot_take
+"i really don’t see a point to google and individually click into websites, when i can just ask for a markdown file of curated question with reference links to verify lol",hot_take
+It should be applications of the data structures and algorithms you learned in freshman/sophomore year. You just need to practice the patterns and applications for them. You won’t need them for the actual job though but leetcode is the “apply what you learned in school” phase of the entire process.,hot_take
+"uh…you do you? Did you just ignore whatever else I said or what? I wasn’t even against using AI in my reply. The point is that there is is no point tool optimising here, and if people can’t recognise that then there are more serious problems to solve.",hot_take
+"Fair but just look at how he’s trying to tool optimise for such a routine thing here. It is the exact same effort to google this shit here with some common sense and at least with on the reviews/interview websites you can easily filter the questions exactly by region and seniority.
+If he can’t even figure this out for himself what makes you think he can verify the questions consolidated by AI are correct?",hot_take
+"what ai tools did you use to find glassdoor reports about interviews, company history and general facts?",question
+"CS student struggling to find internships in 2026. What actually worked for you?
+I'm a Computer Science student from India and have been applying for internships but haven't had much success yet.
+
+For those who landed internships recently:
+
+Where did you find opportunities?
+
+What projects helped your resume stand out?
+
+How many applications did you send before getting an offer?
+
+Any mistakes you wish you'd avoided?
+
+Looking for honest advice and real experiences rather than generic tips.
+
+Thanks!",advice_seeking
+"I love CS but I am kinda lost
+I finished my second year in CS but I mastered Java atleast. I can solve some easy to medium leetcode problems. I have no good projects or internships yet. I don’t even have one internship for this summer. I seen other students have 2-3 internships by their second year. I feel cooked rn. Any tips tho?",advice_seeking
+"Saying you've mastered java is very interesting. Try being a bit more honest with yourself, how can you claim that by saying you have ""no good projects""? You are focusing so much on the result rather than what you lack within youself. Work on your logistical thinking and breaking down problems. It's not easy, but it is simple.",hot_take
+"CS student struggling to find internships in 2026. What actually worked for you?
+I'm a 2nd yr Computer Science student from India and have been applying for internships but haven't had much success yet.
+
+For those who landed internships recently:
+
+Where did you find opportunities?
+
+What projects helped your resume stand out?
+
+How many applications did you send before getting an offer?
+
+Any mistakes you wish you'd avoided?
+
+Looking for honest advice and real experiences rather than generic tips.
+
+Thanks!",advice_seeking
+"Applied to Claude Corps, already got my rejection
+I applied on day 1 bro, DAY 1. They announced it in the morning and heard about it by the evening, stayed up that night to apply. Not even an interview 😞, is it cause I'm international? I have work authorization though. Anyways, its a bummer, especially because I thought I'd be a good fit cause I have prior internship exp+CS background and know what its like to work for non-profits. Anyone else hear back?
+
+EDIT: Welp I guess I missed this in the FAQ section:
+Even though I don't technically need sponsorship, they won't hire students with visa based work auth.
+
+EDIT 2: As someone pointed out in the comment section, they changed the eligibility requirements on the 16th (Wayback timestamp of th 16th) AFTER I applied. I applied on the 12th night, and they only mentioned needing valid work auth (Wayback timestamp of the 12th) which wouldn't disqualify me. Guess I just got cucked over by Anthropic and Codepath :/",rant
+why did you say you need sponsorship? Is your OPT expiring or something?,question
+"I applied day 1 as well. Am a US citizen, got my rejection yesterday. It hurt man 😭",rant
+"They updated their FAQ day before yesterday. Originally they didn’t mention that applicants on visas are ineligible, and only mentioned valid US work authorization. Later they changed it and explicitly mentioned that OPT is not eligible.
+I’m really bummed because I literally have experience working with 4 US non-profits in tech roles, an internship at one of their partners, and I’m literally in CodePath’s AI course 😭",rant
+Can we not apply if we have OPT?,question
+Anyone get an interview?,question
+"Cloudflare Solutions Engineer Intern
+I passed all rounds and got a verbal offer on Thursday. It’s now Tuesday morning and I haven’t gotten the written offer yet. Should I be concerned? How long do these things typically take?",question
+"Visa Experience?
+How have yalls experience with Visa been? I had my final interview about a month ago and am wondering how long do they usually take to get back with decisions. And also has anyone received any offers recently, specifically for the Austin new college grad software engineering role.",question
+"How Do You Take Notes/Retain Information?
+When the professor is just coding on the board or relaying concepts, how do ya'll keep track and take notes? Handwritten or Google Docs/Notion? In what format (T/Cornell Notes, flashcards, etc)? (I can type fast, but my teachers are always faster, so I lose a lot of info). Please, no AI as well, I want to study as ""normally"" as possible.
+
+I've also been recommended to be evaluated for ADHD, as I struggled hard this Spring semester (dropped all of my classes), so if you have severe attention problems, please tell me what has worked for you!",question
+"New Grad 2027 Prep
+Im about to go into my senior year this fall. I will have two internships (IBM/HashiCorp spring coop, and a unicorn this summer). Last recruiting cycle, I didn't get many interviews (I think because of my lack of experience and I didnt do so well on a lot of OAs). Recently I've been doing more neetcode to prepare for OAs and interviews, but I'm kinda worried that I wont get many interviews. I'm working on two passion projects this summer which I hope will help me get more interviews.
+
+How much do projects help for new grad recruiting? I know internships are more valuable but I keep seeing a lot of posts about people with internships not getting interviews. Will projects help?
+
+Is leetcode the thing I should prioritize the most? I've been hearing about new AI assisted interview formats.
+
+Basically, how different is new grad recruiting from intern recruiting, and what can I do in the next 8 weeks to maximize my chances of getting interviews, and passing those interviews?
+
+My dad also mentioned that recruiters love AI (agents, mcp, etc.). Both of my internships are more backend and infra focused, and haven't involved much AI-related work (besides using it as a tool).",advice_seeking
+Did you apply with referrals during your search? Were most of your interviews from cold applications?,question
+"In my experience, projects matter to the extent that they are something you genuinely care about, worked on and improved over time, and a plus if there is a natural and genuine user base (even if it’s something silly that you use with only your friends).
+In my opinion, a less “impressive” web app you created because you care about it and want to do [insert hobby] with friends will move the needle more than some super fancy IOS app that showcases a number of technologies, but that you create for your resume and then move on and never tough again, but obviously depending on company and interviewer/recruiter your mileage may vary.
+Internships are good to show professional experiences and to get your resume into an interview but having real projects you’ve worked on over time and that you’re invested in I feel like can make a good thing to talk about in interviews.
+It is hard to predict to what extent Leetcode will stick around but you’d probably rather spend some time learning it needlessly than write it off and fail OAs.
+My only other piece of advice is keep an eye out on job postings early, such as August or September and apply ASAP. As a point of reference, for my new grad offer I applied and had first interview in September, and had last interview in December.
+When all the new grads met together, everyone I talked to had a similar timeline. Many of my friends didn’t even start recruiting until January which made them logistically not have the opportunity to recruit where I did, and I imagine other “top” companies.
+Similarly, applying early is helpful. My recruiter screen (pre OA) was around 48 hours after I submitted my application, for the offer I ended up accepting.
+Sorry for the wall of text, and good luck in the recruiting cycle!!",opinion
+When should we start applying and when do roles for new grads start to open?,question
+"I lucked out and got offers without referrals. I did end up reaching out to people during the process at the companies while I was already in the interview process (from LinkedIn, professor connections, etc.) to ask about the company culture and advice for interviewing which I imagine helped me do well but I never asked them for referrals bc I couldn’t get over feeling cringe about it lol (which is a character flaw on my part, you should get and take advantage of any referral you can get. It just felt too awkward/unnatural for me to, personally)",opinion
+Hey I appreciate your advice as someone entering the NG cycle with less impressive name internships. Did you find it harder to get interviews at big tech companies for NG than Intern?,question
+Weirdly I found the opposite actually. I had internships at popular companies but no real “big tech” companies. I never really got interviews for their internships. But I did end up at one for new grad,opinion
+"How to be okay with all your code being rewritten for a group coding project?
+Doing a project and it's obvious that one person in the group is clearly a lot better at coding than us. But after splitting work, and having them rewrite all of our code, it's hard not to be infuriated, because at least for me it feels like I worked really hard and spent ages just for my stuff to be wiped out and replaced so quickly. This person also doesn't communicate, they just make these sudden changes out of nowhere and you're left just wondering what the hell happened to your work. Pretty much everything on the project is theirs only, and not because we haven't been slacking off, because the rest of us definitely have worked hard.
+
+But also I might be wrong here because their code really is better, and it's fair they want to improve what we've done. So how do I stop being so bitter and resentful about these changes? I haven't done much group coding before which is probably why I'm not very used to situations like this, so I'd love some advice on how to not get so attached to my code and just accept someone can do it better",advice_seeking
+"As long as you are using git or some kind of VCS you can prove that you did work on the project. Really doesn't matter beyond that, just avoid doing work with that group member in the future.",opinion
+"I mean submitting through compressed files makes sense, especially if they’re running the projects through some grading software. But it’s insane to go through 4+ years of a CS degree and not know how to practically use Git, that wouldn’t be an excuse for any group project here.",opinion
+"Lol, I even knew a guy with 10+ years who was afraid of pushing to GitHub because it would deploy. Levels of experience and quality of education and skills as well as access to great peers to push you matters most IMO. Out groups also had to use zip folders to update code. At the time I had no clue Git was a thing and I really pity old me. Same with a lot of concepts I picked up up years of struggle.",opinion
+"Group projects in college were the worst because the communication can be hard. Some students take 20+ credits while another takes 14 and maybe one is part time. Just make sure you get a good grade is all I can say. It won’t really matter once you leave, as long as you learned from the project. I was in a project of 3 where we set meetings twice a week for the whole semester. One of them never showed up. On the last meeting a few days before the deadline he shows up having written his own version and wanted us to use it instead. The nerve of that guy. Shit happens",opinion
+"I feel like communication is the issue not really them rewriting the code...
+anyway you could pull them aside say something like ""I know you are better at coding then me, but I would love for you to tell me maybe something like that""? .
+Alternatively if you want your code as the end product, make a rule with your team, that you can only work like together, like either in a call or in person, and that's the only times you can make changes, this improves communication and gives you power over the changes and stuff
+(just my opinion tho)",opinion
+"Am I behind? (Advice and tips maybe?)
+Hi all, been browsing this reddit for a bit and I just wanna say all of you got this and good luck to you who are looking for a job/internship:)
+
+But to give a little info about me, I started programming about 6 months ago, it was really basic class, a quarter and the last thing I was taught was arrays (the class in visual basics lol). After that, I took Computer Programming I and just finished Computer II (in Java, got and feet wet with DS & A (trees was the last thing I learned), I really want to get ahead of the school curriculum and self-learn more, I just started a coursera course on DS & A (ik I don't need a course but I feel like I could use some guidance), I also started practicing leetCode, I managed to do a couple, but all of them are brute force/naïve solutions but I really want to land an internship for Summer 2022, do I have a shot at the internships that are catered to first years and second years? are those still really competitive? (I do match the requirements being listed on there) internship. Plus on top that, I was kind of lazy until lately, so no personal projects so far or any work/leadership experience. but besides that, are there any companies that I can apply to that I will have a shot at? I also came through a thread about GM interviews being really easy, also my friends said finance firms interviews are easier, are there any other examples of those places where I can apply? My friend didn't have any personal projects but he grinded LC and got an internship at Amazon, but then he also does go to a prestigious school in the UK. I'm just desperate to learn more and I really want to ""get my hands dirty"" with an internship already, any advice would be very much appreciated.",advice_seeking
+"If you could go back to the beginning, what would you change that would have seriously or dramatically improved your overall experience or even income, today?
+Just looking to see what mistakes you wish you knew not to make, or what particular skills you would have developed, or ways that you would benefit from in the long term to have it easier.
+
+Also, inb4 ""not choose CS""",advice_seeking
+"People who have graduated, what advice would you give to an incoming freshman?",advice_seeking
+"Take advantage of freshman internship programs. I didn’t learn about these until too late, but most of the prestigious tech companies you see on this subreddit, like Google and Jane Street, have development programs for students finishing their freshman year. Google’s is called Google STEP, Jane Street’s is called FTTP. These put you in an awesome position to get an internship in your later years.",opinion
+"These responses to taking unpaid internships are often from a biased perspective. Nobody who is able to get a paid internship is accepting unpaid internships. Those considering unpaid internships are usually at their wits end with trying to get something. It’s not about “respecting” yourself, it’s about getting work experience so you can find a better internship next time. Even sillier is the idea that you are setting precident by taking an unpaid internship. You are simply doing what you need to do, there’s no need to romanticize taking the hard road with zero benefit.",opinion
+"I’m “dead-wrong” and it’s “bullshit” if you can’t get something paid you say? Do you hear yourself? Are you really going to speak for everyone in cs? Beleive it or not, there’s many paths in life. Doing an unpaid internship is a valid approach. Life isn’t a min-max of doing the absolute best thing. It’s about doing what you can as a person. It’s about being realistic. When learning guitar, many people argue whether you should start with electric or acoustic to be a better player. Often the answer is whatever will keep you playing. Being efficient does nothing if you are not setting yourself up for personal success.",opinion
+"Sometimes people don't even know what it is they're missing until they dip their feet in the industry. And honestly, I don't see the difference in doing personal projects and working an unpaid internship. While a project gives you ultimate flexibility, the internship will probably create more value for you. Either way you're doing unpaid work, it's just a matter of who it's being done for (you or the company).",opinion
+so are you for or against unpaid internships?,question
+"I absolutely respect your premise, unpaid anything is exploitative. But if nobody took it, companies would stop offering it. Being a cs major doesn't automatically create value, have cs experience does. Which is why taking even the exploitative offer can benefit you in the long run.",opinion
+"Thanks, I'll check those out. By the way, do you know what recruiters value most in an applicant?",question
+"(Perspective of a 20 year “veteran”): Your first job doesn’t have to be at a FAANG, your first internship doesn’t have to be at a FAANG, and a top school isn’t necessary to end up in a FAANG. (And really, a FAANG isn’t the best option anyway for most people)
+Reading this and similar forums, people are driving themselves crazy.
+Yes, you got the folks who had a perfect GPA, got to a top-4 program, got a FAANG internship in their second summer and a full time conversion offer at the end. They’re the exception, not the rule.
+Then you got people who went to a middle tier program, didn’t have a lucrative internship, worked for a middle tier company and advanced, then eventually interviewed for a few FAANGs based on their experience and eventually took an offer with one.
+By the time they’re in their mid to late twenties, both types of folks are essentially in the same place and likely at similar levels. No one knows where you went to school or what internship you had. It’s all about your in-org level.
+On most teams, you wont be able to tell the MIT PhD grad from your state school grad without actually creeping on their LinkedIn.",opinion
+"If you can program you're most likely good enough to contribute to some research projects at your uni, particularly the ones in other departments like biology where they're... Lacking quantitative skills. These are usually some pretty cool projects do get stuck into and will look nice on your CV.",opinion
+"FYI: A very large proportion of people giving advice and commenting on this server are just as clueless and as confused as you are yourself.
+Don't place too much value on anything you hear on this subreddit, or on reddit in general. Most of those equipped to provide valuable advice aren't as active as terminally online doomposters with nothing better to do than procrastinate on their homework assignments. Do your projects, grind your leetcode, learn your theory well, apply diligently, and you'll most likely find some type of in to SWE.",opinion
+"hope you don't mind me asking but what do you suggest a new cs grad like me should do in between now and February when I enroll into a master's programme? Rn, I'm just feeling anxious all the time about not being good enough.",advice_seeking
+"Network. It’s much easier to get an interview if you know someone. But not just like, hey, I met you at a networking event. You really have to get to know people. It’s harder when you’re just starting out and takes years to build a network. I’m really shy, so my favorite form of networking is helping people with problems. Even things I know nothing about, sometimes, folks just really appreciate someone to bounce ideas off of.
+
+Otherwise, getting your resume noticed, if it’s good, is mostly luck. I don’t work in HR, so I’m not sure what exactly they look for these days. It used to be school and gpa mattered a lot. We mostly hired from local schools, but not ones that were too good, like Princeton, because they were likely to reject our offers. Internships are a big plus. No particular technology is important. That’s just my company though.",opinion
+Any advice on getting callbacks on applications? Getting the interview is by far hardest part for me,advice_seeking
+"How to get better?
+That’s it. How do I get better. I’m a freshman in college who’s familiar with the basics of programming. It is realistic for me to become job ready within two years? What is the best way to learn?",advice_seeking
+"A couple of questions concerning improving myself as a student, I guess.
+Sorry if the title is too vague; this is sort of a mess and I couldn't think of a better name for it.
+
+
+Hey friends,
+
+
+So, I'm finishing up my second year of software engineering studies (would've gone with computer science, but the unis here generally don't make a distinction between the two). So far, it's been quite a fun experience, but I've got a couple of questions that have been bothering me for some time:
+
+
+Due to my lifelong problems with various forms of mental illnesses, I failed two first year classes (namely, Computer Architecture and Algorithms) AND two second year classes (Numerical Algorithms and Nonlinear Optimization) AND failed Computer Architecture again this year. Luckily, my uni is forgiving enough that I should be relatively fine if I pass Algorithms and all other second year classes The medication has been working wonders for the past few months and doc and I are pretty optimistic that things are finally getting better in the old brain department. However, I still have to pass eight whole classes (five from this semester, three from last (although for those I only have to do final exams) + Algorithms from the first year), most of which I've either slept or drunk through. Now, that is surely just a matter of working hard enough, especially as I DO have enough time to mop all of those up, but looking at all the work that has to be done I can't help but feel immensely afraid and helpless, not helped by the fact that it's now a month until the semester ends. So, I guess my question here is: has anyone else had a similar experience? Do you have any advice beyond just plain hard work?
+
+During the years of my infatuation with computer science in general, three broadish areas have distinguished themselves as my main interests: low-levelly system programming (operating system development, distributed systems etc.), programming language and compiler theory, and finally machine learning (mathematical/theoretical aspects of it moreso than strictly practical stuff). Now, I realize that during my time at uni I WILL be subjected to all of those subjects in amounts sufficient to nudge me in a particular direction, but I would really like to begin specializing earlier; if I change my mind later during my education (or life for that matter), I doubt I'll regret my decision to learn something new rather than wait till I can finally 100% decide where to go professionally. All I've been doing for the past several years is making plans for what to read and do, then seeing something fascinating from another field of interest, then shifting to that field and making plans for how to study it. Rinse and repeat. Being stuck in that loop of almost-not-procrastination is, to mildly put it, infuriating. I'm not asking you to decide my professional orientation for me; just - how to overcome the initial hurdle of ""hey, everything is amazing and I want to know all aspects of it but I can't since everything else is also amazing so I have to know that first""?
+
+I guess all this is just my naivety speaking; this has probably been asked in some shape or form thousands of times before - still, I hope you can look past my vague ramblings above and indulge me.",advice_seeking
+Sleep is massively important. Your logic and ability to problem solve degrades after hours of studying and coding to the point where you can be doing more harm than good. You need sleep and regular breaks to let your brain recharge. Six hours of well rested effort is worth more than the next eight to ten hours of working tired.,opinion
+"Pick and choose your classes wisely my friend. Have you ever filled out the survey at the end of a course asking you for comments, amt of time spent doing hw and what not? Read the course reviews of the professor and course before you enroll! These are usual available through ur Uni’s internal portal. Optimize your schedule with easier classes so your not taking too many hard ones at once. From the looks of it ur taking hard ass courses all at the same time. That’s a death sentence even if u enjoy the materia",opinion
+"You get 5 minutes with your bright-eyed, freshman self. What specific, non-obvious advice (i.e. leetcode harder) do you give to set them up for success in CS?
+I find myself ruminating: ""I wish I could've told myself X at Y age, or before doing Z."" If you could go back to your bright-eyed freshman face, with aspirations of cracking into internships, what advice would you give? Knowing what you know today, what would you say to plant seeds for success earlier?",advice_seeking
+stop focusing so much on your grades and gpa and make your first priority recruiting and preparing for interviews.,opinion
+"An hour a day. Just do something an hour a day. Could be reading, watching lectures, coding, etc. Just one hour a day for 4 years and you'll be ahead of 95% of grads.
+Don't focus too much on all the noise. From ai, to systems, to different tech stacks, to all that other stuff. It's distractions. Focus on 2 things. 1, pick up 3 essential languages: a fast scripting language like python, a faster production language like cpp, and sql. You can do 90% of things with just those. Then, build. Learn some theory.
+Finally, don't keep jumping around from thing to thing. Focus on 1-2 things at a time. Big project and a course, for example.
+Edit: also, track your progress. It will help a ton in motivation to see how far you've come",opinion
+"Agree! This is some of the best advice out there, the one thing I'd disagree with is that the noise is nice to know at some point: you should know what's happening in the AI space, what's happening in the sytems space, so on - this is where most companies will be, and that's a very valuable insight to have.",opinion
+"Really want to change my life, need advice. I'm Panicking!
+I'm currently a third-year B.Tech student in India, and it recently hit me that I've completely squandered the past three years of my academic journey. Three whole years plus all the money, down the drain. And now? I'm left with nothing but regret and a sinking feeling in my stomach.
+
+I've always been passionate about computers. Since I was a kid, when I got into B.Tech, I thought I was set for life. But boy, I took ""No one studies in college, It's all fun"" too seriously. I've spent time procrastinating and scrolling mindlessly through social media than actually engaging with my studies. And now, as I stand on the brink of my sixth semester(we total have 8 semester,my 6th semester started a month ago), I'm filled with nothing but regret.
+
+But here's the thing: I refuse to let this define me. I refuse to let three years of apathy dictate the rest of my life. I want more than just a mediocre existence—I want to excel. I want to land a killer job in the tech industry. I want to wake up every morning feeling excited about the work I do.
+
+So, here's where I need your help. What should I do? How can I turn things around in my final year and make up for lost time? how do I silence this nagging voice of regret and self-doubt in the back of my mind?
+
+I'm ready to put in the work, to hustle harder than ever before. I just need a little guidance to steer me in the right direction. Any advice, encouragement, or tough love you can offer would be greatly appreciated.",advice_seeking
+"This looks like a motivation rush right after you feel insecure. Everyone feels this but only a few take action. Others just do something until their dopamine drops and get back to same old habits. Stop wasting more time and be consistent with what you do, be it small or big project or leetcode.",opinion
+"I DONT KNOW WHAT TO DO REDDIT
+I DIDNT GET A RETURN OFFER. I worked really hard at my internship at a big entertainment company this summer. I majored in Statistics and Data Science graduating June 2026 and have had 2 other internships at this point. They had all interns interview for only 15 spots and in a 30 minute 1 round interview assumed I was not a good fit.
+
+I don’t necessarily have a team and I work most closely with my manger. I know for certain the recruiters for this full time rotational role don’t know the hard valuable work I did since my manager had said no one has reached out to her to ask my performance. And she’s the only one who can speak to my work ethic. So this just comes down to me having bad interviewing skills after being antisocial and locking in this summer. Now I’m scared for what lies ahead because if I can’t get a return offer at a company I already had a leg up in… how am I going to find a job in this cooked economy? Is there anything I can still do? (Should I beg idk?)",advice_seeking
+"Adult comp sci students, give me some studying tips!
+Hey everyone. Non-traditional (read: 30yr old) comp sci student here. Looking for tips/tricks on studying and staying up to date with class work.
+
+I’m a transfer going for a bscs as well as bs data science so I have already bought extra math books and plan to use khan academy as much as possible lmao.
+
+Just wondering if any other adult students had anything to share.
+
+Other, traditional students as well please feel free to contribute!",advice_seeking
+How do you recommend doing that? Emailing the recruiter or the person I interviewed and just asking in the 1 week I have left of my internship?,question
+"Hey, I'm 24 and just finished my first year of university a couple of months back. The best bit of advice I can give you if you're struggling to study is to have a go with the pomodoro technique. I struggled getting into the routines of learning again after working for years, the pomodoro technique helped a lot!",opinion
+"I started at 28, 30 now and will be graduating next spring. Been working full time the entire time also. Start assignments early, you have to do them either way so may as well start ASAP and have more time to reach out for help when needed. Helps your stress levels a lot too. Always do the extra credit. Lots of my classmates skip it but profs offer extra credit on assignments because the information needed to solve it is useful to know. Finally, review what you’ll learn in your classes before they start. Before my discrete math class, I watched theTrevTutors discrete math course on YouTube and it helped immensely to get that kind of exposure. Don’t try to learn it all, just soak in some of the ideas. Hope this helps!",opinion
+"Sorry for the random/late response, but would you recommend any ideas in particular in Discrete Math to focus on? I'm actually in the process of preparing for discrete math 1 in the fall & i'm just trying to see what i should focus on for the time being!",advice_seeking
+That makes a lot of sense! What youtube tutorials/videos did you use to help with discrete math? I’m definitely trying to soak up info at my own pace. Thanks for the tip!,advice_seeking
+"How do I push myself harder in this major
+I just finished my first semester but I still fill like I haven’t done anything successful yet I know a lot of high level languages like Python and a lot of libraries for AI I also dabble in the C languages and I mess around with many cybersecurity programs for reverse engineering and ethical hacking as well as getting to low level concepts as assembly and other computer engineering concepts I just wanna know what should I do to take it to the max where my brain explodes",advice_seeking
+Hey how y'all doing great I'm a fresher in cs and I need some advice from you guys about the field I must pursue to get a high paying role,advice_seeking
+"lol dude
+quit chasing a dream you aren't smart enough for and apply to your local McDonalds and actually contribute to society at the fry station or patty-presser",opinion
+What would be the one sentence advice you can give to freshman/sophomore's?,advice_seeking
+"advice from someone who has been in this industry for a decade
+drop out now you'll have more time to learn something useful",opinion
+"How to stay genuine and be a good person?
+I've had some success with the job hunt recently and I'm very happy - I think I worked hard for it. The thing is I had poor work ethic in the past and last year barely managed to land an internship. Something kinda clicked and I began putting in the work to get to where I am.
+
+I can't help but compare myself to other people and think that I'm above them in some way. I've also inadvertently started judging people by their work ethic and success, based on my standards. One reason I think this happened is because I was very critical of myself to the point it was slightly unhealthy so I can't really understand how people can be content with where they are (at least the ones who claim that they want to be better and do nothing about it).
+
+I don't vocalise these thoughts or perspectives (with the sole exception above) but I'm a little sad that my view on the people around me is changing and other things like ambition, drive and goals is affecting how much I respect a person (on top of their character and personality).
+
+My friends and family probably don't see this side of me (because they can't see my thoughts) but having these 'toxic' thoughts is making me feel guilty. Have you guys been through a similar situation before? How did you deal with it?",advice_seeking
+"Any genuine advice for people just starting their cs major journey?
+Things to focus on, avoid wasting time on etc. Taking into consideration the volatile nature of the employment scenario. Any and all advice appreciated!",advice_seeking
+"Advice for a 22 year old
+So, I kinda have no idea what to do with life. I mean, there are things I enjoy and stuff I’d like to do in the future (like building schools), but for the near future, I’m completely lost.
+
+I feel like I have to do an undergraduate degree because I’m an immigrant, and I might need it as a backup in case the country I live in goes too far right and I have to leave. A degree could help me get a master’s somewhere or just have more options. But I have no idea what to study.
+
+I’m kinda good at social sciences, but those don’t seem that useful for jobs. I don’t have any special talent or fast-learning ability for CS or engineering, but I think I could grind through CS and come out okay. That’s what I’ve been planning for the last few years since it seems easier than engineering. The problem is, I don’t think I’d ever invent anything—I’d be more of the person coming up with ideas rather than building them. And now, I’m seeing so many unemployed CS grads, which makes me wonder: if even people who wanted to do CS can’t find jobs, what chance do I have?
+
+So my main question: is there any point in doing a CS degree?
+
+Second thing: I’m not sure if this is country-dependent. If I stay in Germany, university is free, so I’d just have to work to cover living expenses. If I go to the US, I’d have to work like crazy and probably take on some debt.
+
+Any tips, advice, or thoughts? Any other major I could look into? I feel completely lost (not in a poetic way).
+
+Edit: btw I am not looking for a get rich fast scheme or like which degree makes most money, just a simple life ig. I don’t think money is worth waking up each day hating ur life and work.",advice_seeking
+"incoming CS major looking for advice
+hi so I'm going to be studying CS in cornell's college of arts and sciences this fall and possibly doing a double major with math. I'm making this post asking for advice, since I know the job market isn't great what do you recommend I start doing early to help my chances for jobs/internships when the time comes or what did you wish you did from the start? Also any general advice on college and CS in general will also be nice!",advice_seeking
+"My life is slipping away and I need help?
+So, guys, I want to learn programming, but the problem is I'm not fluent in English.
+
+I understand I can learn programming without strong English skills, but my dream is to work for international companies and travel or work remotely. My English level is roughly between A2 and B1. I've tried several times to commit to practicing English on my own at home, and when I reach a level of fluency, I'll start programming, but I always fail. I don't know which path to take. Should I learn programming and then English later? Or should I learn both at the same time, which would slow me down? Or should I try again to master the language before learning English?",advice_seeking
+"How do I cope
+Vent----
+
+So fyi im still in high school, and today in one of my classes I was sitting at a table next to another table. One of the people sitting there told me that one of my friends told them earlier that day that I was a CS expert and that I seem really good to my friend. Well the person my friend told them to told it to the entire table, which included an actual CS ""expert"" while the claim my friend was making was overblowing my actual ability. When that person said that my heart sank cause I know I was about to get roasted since now all the smart CS person at my table and a few others said that I'm not good and told the person that said it to everyone to reevaluate their stance. I went home and felt down bruh..... how do I become a CS expert/genius so I don't accidentally get clowned by actual CS sweats since I look retarded to them subconsciously. How do I outsweat the sweats or lose my ego and become free of judgment.",advice_seeking
+"High schoolers aren’t cs experts. If they were they should just drop out of high school and go get a job at FAANG. Trust me, even people with cs degrees and years of work experience wouldn’t consider themselves an expert.",opinion
+Please stop caring about what random high schoolers think of you,opinion
+What are the tips that are getting (or got) you through your CS degree?,advice_seeking
+Not having a life is worth it cuz of the money after I graduate. Don’t know if this is true but it’s good copium,opinion
+"Need Career Guidance
+Hi everyone. Sorry, a bit long post ahead.
+
+I need advice for forming a plan to get into a big tech company (say Microsoft, Google, Nvidia and similar ones).
+
+I have a dream (since a long time) to work in a ""big tech"" company. I'm from a developing or a third world country and that just makes it more difficult to get a job at such a company (i think from my little research).
+
+I'm 21 years old, male. Have been working for almost 2 years as a web dev (dotNet, Angular and Sql server). I'd say I have a pretty good grip of the tools and the tech stack i use at work. I'm a nerd and absolutely love to learn new things about tech. I'm in my second semester, doing Bachelors in Computer Science from a well reputed uni (but I'm always learning stuff on my own and am not reliant on university that much).
+
+Now i think that i have to start making a plan and then start to prepare (for applying and the prep for interviews). I know that me being only in the 2nd semester might be a roadblock but I think if I start right now to prepare and learn about the interviews and the hiring processes then I might have a shot at securing a job when i pass out from university.
+
+Could anyone, maybe a former or current employee at such a company or anyone else :) give me some advice or mentorship to point me in the right direction. The learning I'll definitely do on my own and will work hard for it but if someone experienced could please help me in making a plan and could give me helpful tips, that'd be awesome.
+
+Thanks",advice_seeking
+"Must-Do Tips? How To Make This Degree As Stress-Free As Possible?
+About to start a comp sci or compter/electrical engineering degree. Tips? Daily study routines? Any helpful literature I should read, any programs/software I should download?
+
+
+",advice_seeking
+"How can I get ahead so I can get into a good college?
+TLDR: High School freshman. Interested in CS but I really don’t know what route to take, looking for advice on how to start so I can build advanced projects in the future.
+
+Hey, high school freshman here. I know that it is probably in too early to be worried about this kind of thing, but I have little coding experience but I feel the need to start getting ahead on my college application. (I’m aware I’m young and my interests may change)
+
+So, my question is, what would you recommend me to start learning or doing? Here’s some things maybe to consider:
+
+I’ve already been learning Python both on my own and at school just to gain some knowledge on the basics of coding
+
+I’m trying to learn Swift because I really want to make an app, and I think that would be an amazing project (although, I’ve gotten as far as downloading Xcode and getting the simulator running)
+
+I kind of tend to jump around a lot between things that I’m working on, and I understand that computer science is a broad field and there are many routes I can take; so would it be worth it to start on one basic thing-regardless of my interest in it-because it will help me in the long run?
+
+Honestly I don’t really know what I’m getting myself into but I want to be sure I have a strong base so the more challenging things will be easier later (junior year)?
+
+Anyways, I would appreciate any advice, regardless of how early it seems or how naive I may be… thank you so much",advice_seeking
+"Genuine crash out
+I just was meeting up with someone I know who is working as a big tech SWE intern.
+
+I was telling them about my sister who’s working towards becoming a trauma surgeon (a type of doctor that treats stuff like vehicle accident or assault injuries, etc). His first reaction was: “why doesnt she js go into tech for the TC? med school lwk expensive. its ezier js to internshipmax and retire early from big tech promos”.
+
+Not a single “that’s an honorable career path”, not a single “that’s something that’s genuinely important”, not a single “that’s actually meaningful work” statement. Instead, this dude pulled his pants up and acted like he chose the better life path by prompt engineering dashboard features for Mark Zuckerberg.
+
+I genuinely cannot STAND this mentality in tech. Tons of software fuckers literally look down on people who work 10+ hours a day DoorDashing just to survive for not “TCmaxxing”, as if everyone had the same luck and life circumstances they did to even be in a position to fuck around and make a lot of money doing a whole lot of jack shit.
+
+I’m not speaking to ALL people in tech; there’s some humble ones, and many others who are genuinely creating products that meaningfully impact society. I’m talking about the increasing amount of braindead, based in San Francisco, Claude Code and Codex using, LinkedIn lowercase letter maxxing mother fuckers who genuinely need to piss off.
+
+These people have stripped away every ounce of their humanity for a literal AWS subscription and Azure certification. Perhaps they’ve never felt love and are desperately trying to fill the void through ChatGPT newsletters and insulting others who are worth more than they ever will be — but the truth is that they’re only making it deeper.
+
+You’re a HUMAN. You will DIE. On your deathbed, are you really going to fucking be thinking about the shitty levels.fyi salary page?! Or are you going to be desperately pleading to that trauma surgeon to do anything they can so that you can live to see the sunset another day.
+
+Just think about that.
+
+FUCKKKKK",rant
+"A New Grad's Advice for CS Majors
+So I just graduated with my Bachelor's in CS. I've thought a lot about what I wish someone had told me during my time. This is just my experience, not universal truth so take it with a grain of salt.
+
+About Me:
+
+T300 school, 3.54 GPA, no internships, no research, no referrals. Landed multiple full-time SWE offers at companies you'd recognize through cold applications alone.
+
+CS != SWE
+A lot of people forget that what made CS a good for SWE was the transferable skills that it would come with like programming and DSA. Unfortunately with a mix of the changing software landscape, massive increase in applicants, and every other factor, the bar has significantly risen. Basic programming proficiency and knowing DSA is just a standard and expectation, not a distinguishing feature. You'll often see domain-specific knowledge required for entry level roles and even internships that definitely is not covered in standard conventional CS Major lectures.
+
+This seems pretty obvious but many CS majors don't really understand this difference, and it goes into the rest of my advice.
+
+SWE != SWE
+I think most people will agree generalists are a dying breed. Everything nowadays requires specialization that most CS programs don't teach, and if they do, it's not for more than a semester usually. The issue then rises in the fact that you need different knowledge for different domains.
+
+I have friends going to FAANG internships who could not explain the stack vs the heap (no not the data structures) or what cache locality means. At the same time, they could solve a LeetCode Hard in half the time that I could (it takes me like 15-20 minutes). Is either of us a fraud? No. We just applied to different domains which meant we had different paths towards success. Their technicals were heavily LeetCode, mine has 0 coding at all for technicals.
+
+A lot of people will try and pick a project they say on some ""Top 5 projects you need to do to land an internship this summer!"" YT video and wonder why their copy and paste AI data filtration buzzword soup is not helping them land a Low-Latency Optimization role at an HFT firm. Okay maybe not a lot, and not exactly that scenario, but you get the point.
+
+Most people are in love with this idea of getting a FAANG role or breaking into SWE but don't actually know what that even means or what they are really aiming for.
+
+Pick a Niche/Domain
+Now that we've established domains exist and the differences matter, you should pick one! My advice is to just try a project in it. I thought Cloud might be cool, and I got my AWS cert, built something with AWS Lambda, and then founding horrifically boring (no hate to those who love Cloud). A few months later I'm having the most fun testing different memory allocation techniques for a compiler project. That same compiler project I used to perform well in the interviews that landed me my offers.
+
+Also, when you pick a niche, it becomes way easier to identify the gaps in your candidacy. When I was applying as a generalist, I had a 1% interview rate and couldn't get past round one. After choosing a specific domain, I applied to less than 20% of the jobs I had before and got multiple offers.
+
+It is quite painful as you will be applying to fewer jobs (even more so as I was applying out of cycle) but you'll actually be competitive for the ones you do apply to.
+
+Literally, once you pick a domain, figure out what are the types of teams and positions you'd be targetting/applying to. Download the job descriptions and put it into your LLM of choice (Claude, ChatGPT, Gemini, etc) and have it simulate an interview asking you questions about your candidacy and you'll quickly see where you're lacking and go from there.
+
+I even had an experience where in the interview it was clear I wasn't gonna get the position because I had no experience in Concurrency. I then did a side project learning basic concurrency and modern practices of concurrent C++ then in my next interview crushed the concurrency questions. Had I been applying to multiple domains, spending time preparing for concurrency would have done nothing if the next position was about data engineering and data filtration.
+
+Giving yourself a niche to work within gives you clearer direction of where you need to go and gives you a tighter feedback loop to understand where you are in your candidacy.
+
+Stop Listening to the Wrong People
+This one is a bit ironic given this is a reddit post about advice, but stay with me now. Most career advice for CS Majors is generic and domain-agnostic which is pretty useless or actively harmful depending on your path.
+
+Don't take interview prep advice from someone in a different SWE domain than what you're trying to do. I've done 150+ LeetCode problems because that's what I was told I need to do, yet not a single interview I've had in the last several months included LeetCode. Some of my friends' interviews have been *entirely* LeetCode. Listening to each other about how to ace the interview would be genuinely terrible.
+
+You really gotta do your own homework on what your target domain is looking for and then take advice you get with grains of salt. I wouldn't trust a Front-End Web Dev Vibe Coder's advice on compiler optimization passes.
+
+Stop Using AI for Your Projects
+I absolutely love AI tools and LLMs. I mentioned earlier to use them to help practice and find your gaps. Personally, I use Claude to explain concepts and help prep for interviews. I draw a strict line at using AI to build your projects for you. It defeats the purpose.
+
+The point of projects is to prove you know what you're doing despite not having formal work or research experience. If an interviewer asks you about a design decision or what kind of problems you ran into, there's a difference between someone who prepared answers to demonstrate understanding of the project versus someone who intimately knows the process and journey that was the project's development. An interviewer can sniff it out extremely quickly.
+
+In my own experience, my most significant projects are not that impressive in terms of lines of code or even the complexity of the project, but it was an incredibly learning experience where I had to learn a bunch of new concepts. My interviewers were much more interested in questioning that learning process and concepts I covered instead of the implementation details that most people will try to memorize when the Vibe Code the project. There's also just my personal opinion that Vibe Coding degrades your critical thinking ability that usually is developed by programming, but that's just anecdotal.
+
+Your School Does Matter (I know, it sucks)
+A lot of people will push back on this. There's a 15 YOE SWE reading this going ""well I didn't even go to college so how can you say the name matters?"". There's an MIT cracked comp sci student with 4 FAANG internships and co-ops saying ""It's not that I went to MIT it's because I did X, Y, and Z"". There's a doomer saying ""See! I go to T250 college and this redditor said I'm cooked, so we're all doomed because we don't go to Stanford!"". There's truth in all of it. There's no universally applicable rule and going to a T10 doesn't guarantee success and going to a T250 doesn't guarantee failure.
+
+However, when a recruiter is screening hundreds of applications, a T10 school is a shortcut to signal some form of ""quality"". I've personally had people lose interest mid-conversation the moment my school came up or tell me directly that my co-worker must have come up with my idea because they went to a better school than me (not exaggerating, it was quite frustrating).
+
+With that said, what it means is that if you go to a T250, you can't do what the T10 students are doing and expect the same results. If you have the same profiles, the difference WILL be decided by your school name as people will try to make their bets based off of what they know. A candidate from MIT is a safer bet than a candidate from Random State School #177 (assuming the profiles otherwise are essentially the same). In order to beat out the T10 students, you have to be so clearly qualified for the role that school name can't even be considered a useful data point.
+
+This is not to just pick on MIT. Just a good metric for a school that carries prestige and weight in the name.
+
+In one of my interviews, the interviewer said it was refreshing how deeply I could talk about my projects since he'd recently interviewed a T25 student with a perfect GPA who couldn't talk about their own work. My school was lower, my GPA was lower, I had no internships, but I got the offer. The other dude could be the most cracked candidate ever, but I just happened to demonstrate my qualifications were so significantly stronger aligned that those aspects didn't matter, and I got the offer.
+
+Unfortunately, in such a competitive time, there will be some metrics used to screen like school name or company name. But it's important to know that these metrics can only be used if there's nothing else to rely on. I would say how in fighting the phrase is to not leave it up to the judge's decision. You can't let it be left up to frustrating metrics like that if you want to succeed.",opinion
+How to be a CS major in 2026 (for incoming freshmen),advice_seeking
+"Do we deserve the criticism we get?
+The internet loves to talk bad about CS majors, but I can’t find any evidence that CS majors are actually struggling more than other majors. It feels like no STEM major is a guaranteed job these days. Why do they criticize us?
+
+
+",question
+"/rant
+For the first time I actually almost cried doing code I'm stuck here doing my data science assignment I can't even find videos on the topics covered in the question my pride doesn't allow me to use AI cause I want to understand what I'm doing but I'm at my wits end.
+
+
+",rant
+"Rant: Getting Tired
+Background: I'm a second year computer science major at a California state school. I also identify as female.
+
+Where my ladies at?? I don't know about you, but I'm getting tired of constantly trying to prove myself just because I'm a female in computer science. My grade only has 15 women in computer science out of 100 people. There's like 2-3 other women in my courses, and I'm just tired of it always being this way. The guys almost never take what I have to say seriously, and if a guy answers a question that I actually said earlier, suddenly everyone else believes it. Constantly getting belittled in my abilities is only the start.
+
+This morning, we had a breakout room and they were talking about how our professor sounds really cranky over emails. Someone in response said that it must ""be his wife that sends his emails then."" I know that not all guys are sexist or misogynistic, but dang... it gets tiring when you're around the ones that are.
+
+OH but not to mention the ""you only got those internship offers because you're a girl."" I somewhat agree, that probably plays a little bit of a role in companies decisions; but that doesn't mean I didn't do countless hours of LeetCode, fill out 132 applications, work hard in my courses, fail coding interviews, and keep up with sexist slums everyday.
+
+Anyways that's just a little rant, hoping things get better when I'm in industry and HR is a thing :/",rant
+"rant and REALITY CHECK
+Hi
+So I just graduated. I have done leetcode in the past but not very intensively. I know my way around logic on solving a problem but my problems are 1) probably not the most optimized code or structured code 2) I've gotten lazy af and 3) I can forget my way to write a code despite knowing how to solve it logically. I didn't get an internship (I was working as an RA during the summer) and now I'm balls deep scared about getting a job.
+
+A) Is the job market really that bad or am I just trying to convince myself? I want to get into ML or something but SDE is fine too
+B) I NEED A BLOODY REALITY CHECK to light a fire under my ass to slog and clock in.
+C) Should I start looking for a job in my home country and make plans to move back or ...? (financially I can afford to be in the US for another year MAX to look for a job but mentally not so sure)
+D) If I had to start all over again what do I do and how tf do I start?
+
+P.S:- My profile isn't honestly half as bad for a fresher. I have 2 years SDE work ex as an undergrad (was working during covid and was also a student at the same time so idk if it counts as much or no).
+
+Thanks in advance!",advice_seeking
+"Internship advice needed for summer + rant at the end
+So I am involved in 2 programs over the summer that almost guarantee placement in data science or swe for getting an internship the thing is that I feel that even If i get an internship in something It wouldn't really be beneficial as I don't know enough to contribute and might only be viewed as filler and i don't think companies would care to teach me. Would appreciate if someone shares their freshman internship experience.
+
+On another note.. I AM SO COOKED Thinking im gonna make 6 figures while I couldn't even remember the password to my old reddit account 😭",advice_seeking
+"IM SO FUCKING ANGRY WTF
+So I'm taking the C1 Codesignal on Tuesday and I'm in the library right? There's like, a few second network outtage and I don't even notice it until they tell me at the end of the exam that I have an extra 60 seconds to finish the test. C1's test is proctored and I have to show them my ID and have my camera on and everything. I just got notified today that my result has been rejected because of that technical issue. I'm so exhausted, I had a 708 and I was proud of that for being a little out of practice. Capital 1 ain't even that poppin', so idk why they have to take themselves so seriously with requiring my license and my camera on for me to take their test.
+
+
+",rant
+"What's with all the extremely negative posts on here lately?
+God damn it. Every other post is someone ranting about their immense regret of majoring in CS. Did ya'll really think CS is some easy path to a six figure salary? Maybe that was true at some point, but CS like every field requires effort, determination, and pure hard work now. If you hate CS and still chose it for the money, than with all due respect, it's partially your fault. Why choose something you hate just because the money is good?
+
+Is the job market bad right now? Yes, there's no denying that. Will it improve? Most likely. It's so fucking annoying seeing every post talking about regret or the usual ""don't major in CS, CS is dying, AI will take over.""",rant
+"Venting: Corporate is so unfair and random
+I just wanted to vent somewhere anonymously - something that is quite obvious to most people but it still sucks.
+
+It feels very unfair that a lot of people who weren't grinding as hard as me to be selected for internships that I felt like I deserved. For example, we would have mark differences of 10+ in assessments and assignments.
+
+Some of these people I know had even cheated their way through some courses at university.
+
+It sucks because I sacrificed a lot to grind and study, and over a long period of time as well. I did feel like I missed out on a lot of experiences because of this.
+
+Alas, every career is like this. It sucks but what can you do.",rant
+"Another lovely rejection, rant
+Hey guys, just really need to rant. I told myself I wouldn't get all worked up about this from the start but here I am, depressed as hell. I applied to a few internships for this Summer in January, not expecting anything cause yanno, job market is awful. I've applied to a lot of internships over the years, rejection after rejection after rejection. Only got one that had potential for an internship just to be completely ghosted after my final round interview (I was a freshman too! I will be graduating in August now). I've been met with rejection and depression consistently ever since. (:
+
+To my wild surprise, I was invited to an interview in March for a big tech company. For some reason I just had a REALLY good feeling about this one. Like THIS was gonna be it, this was gonna be my lucky break. I STUDIED for this interview, like all out did everything I could to prep. Interview comes around, and it went great. AWESOME, I was pumped & feeling fantastic. A week later I'm invited to a double interview, one hour behavioral & one hour technical. Again, I prepped SOOO hard, more than I've ever done for any interview. I was READY. Interviews come, and they go GREAT. At this point I was like, I got this. Like this is ACTUALLY gonna be my time.
+
+Now another week goes by and the recruiter reaches out and says that everyone has loved speaking to me, and I have been invited to the last step, which was specifically just a short meet and greet call with the team lead. Meet and Greet?? Awesome, I'm pretty much in right? wrong. I go to the meet and greet call and it again, goes really good!! We had a nice discussion and everything seemed REALLY good. He even mentioned that the hiring manager spoke very highly of me so he was really anticipating this call. I FELT SO GOOD. They then said that only 3 people made it to this final round and they would have a debrief to choose which of the 3 of us would be chosen. Said they would get back likely within 1-2 days. That was last week.
+
+Well surprise, I never heard anything. I reached out on Friday with just another follow up asking if their was any update and I got nothing. Saturday morning my anxious ass checks the job site and my application status changed from ""in process"" to ""closed"". The second I saw closed, my heart literally stopped. Monday morning the recruiter reaches out with the rejection. I felt so good about this one and yet again, I didn't get it. I have been so absolutely depressed since. I just don't know how much more I can do at this point. I have been working my fking ass off, and it is getting me absolutely nowhere.
+
+Anyways, I hope you all start having better luck than I do, cause this just really really sucks.",rant
+"Anyone else feel anxious reading this sub?
+Don’t get me wrong, I really appreciate all the advice people give in this subreddit, but every other post I see is how some big tech company is freezing hiring or of some insanely hard interviews, etc. and tbh I just feel anxious and deflated.
+
+I don’t know if anyone else is feeling that way this interview season, but I’m really started to get worried and feel like no matter how much prep I do, I’m fighting against the current here. Should I lower my expectations and just look for some other roles like DevOps, site reliability engineer, test engineer, etc?",rant
+"frustration and disappointment in myself
+hey everyone, let me preface this with my background: rising junior, 3.8 GPA, go to a top 5 school (uc berk), and i have previous internship experience. i also help teach an upper-division class at uni, and i have 4 solid projects on my resume (React web app, generative ML MVG model from scratch w/ python+numpy+pandas+datacleaning, java clone of git, and a computation data/thread parallelism with C)
+
+coding stats:
+
+codesignal 841 (just got this 2 days ago, failed databricks, roblox, zoom, and instabase with 780, so it's too late anyways)
+
+solved 89 LC questions w/ distribution 26 easy/57 med/6 hards (finished all non-LC-premium problems on blind 75 except 3 hards)
+
+i started applying september 29th, and now i have applied to 208 places, received 33 OAs, 12 of which I got a perfect score on. Of which, i only received 3 interviews, and i've failed 1 and only have 2 left. this is my first mistake - applying late september, when the gold was during late july + early august.
+
+i am writing this after failing doordash interview: i know my mistake, and it's just a skill issue - at this point, i am more angry than anything else. i spend many hours thinking over LC questions and talking to people at my school, but i'm not improving at all. i know i'm not improving simply because of my performance - everyone else knows how to solve these simple ass questions, but in that doordash interview, i had a chill graph question which i understood but could not implement, and i'm kicking myself everyday for it. my classes/sleep are suffering so much so it's a lose-lose scenario
+
+tbh, i could care less about what jobs my friends had (so many classmates are going to insane firms), but that's not causing me my negative emotions - i'm so angry and disappointed because i am not getting better. i am always missing a little bit, and despite what i do - day by day i'm at the same skill level. i try to put my anger into my studies, and there are days where i sit in the library for 17 hours with packed lunch/dinner trying to grind harder and harder. i don't think i will burn out because im so desparate for improvement - i just keep imagining what it feels like to have a future and that is the biggest motivator of them all, but it is not enough
+
+if anyone has ever plateaued in life so hard, please share how you climbed out. i'm looking to any advice to get unstuck and make progress",rant
+"Why are you guys complaining?
+If you can't find a job then learn to mine. It ain't wfh but it's an honest work.
+
+Sincerely
+
+a miner",rant
+"Is it mandatory for people in this field to be complete assholes?
+Everywhere I look in our field all I see are assholes. Myself, my classmates, my professors, recruiters, stackoverflow etc.
+
+Why is that? It doesn’t take a fucking genius to create a loop that prints “Hello world I’m a jaded cunt” but we all like to sit on this pedestal like we are the shit. Some things are definitely hard but people are literally able to get jobs in our field making good money without ever stepping foot inside a classroom. No doctor or lawyer could ever do that.
+
+Im tired of having the one fucking thing I enjoy ruined by a dickhead TA or a recently divorced stackoverflow moderator with a superiority complex.",rant
+"This subreddit is so full of shit
+Blind leading the blind here. I'd bet my left nut that 90% of this sub hasn't had their first job yet, yet there's no shortage of armchair experts who won't shut up about what the market is going to be like in a few months.
+
+There's posts like ""___ company just laid off __% of their workforce"", and teenagers with no relation to that company (let alone any company) commenting on the company's business practices, how many of the laid off people are engineers, how ""a friend"" of theirs told them exactly how many employees are laid off and in what teams.
+
+Folks here pulling GPT numbers with the amount of straight up misinformation being spread.",rant
+"Rant About Attending a Good CS School
+I go to a T5 CS school. Coursework is pretty demanding. Sometimes it feels like the work never stops coming in until the semester ends. I don't love software engineering and sometimes I wonder if it's because I never got to experience programming for leisure. This major at this school trades off with my ability to leetcode/prep for interviews, code projects, participate in hackathons, etc. I've certainly been stressed and depressed but I pull through and am above average. But is it really worth it? It's not like I'm going into academia which is half the reason one would want to attend a great CS school. Maybe it's just absence of grade inflation at my school that makes me worry about and work for my grades more.
+
+If I went to a different school I wouldn't have a brand name on my resume but I feel that I'd be able to focus on all the aforementioned things since I'd have a ton of extra time. I'd definitely be a more desirable SWE applicant. I might enjoy what I do a bit more. Anyone else in the same boat? Or do I just have the wrong mindset lol",rant
+"No, this sub is not toxic
+Annoyed of seeing the weekly post of “this sub is so toxic”. People celebrate when others land their first internship no matter if it’s big tech or not, valid comparisons are presented for advice, and good advice is given. People say this sub is toxic and can’t present any supporting evidence
+
+
+",rant
+"Vent: What the point? Just need to vent about this software field
+Drunk. Upset. Frustrated. Life is so absurd. It’s all bullshit. Just venting.
+
+I work in the federal government as a Data Engineer (Software Engineer), and man, I’m just tired. I know the government is a mess right now, but this has been disheartening, and I just need to let this out.
+
+Every system has failed me. Every tech job I’ve had, I’ve been let go or hit with “performance issues,” even when I was grinding, putting in the effort, and trying to contribute. I’ve worked in private industry, a major engineering university, and now the government. Hell, I even worked at my friend’s startup (for free), only for him to ghost all the engineers after we built his product. And every single time, management finds a way to pin failures on me instead of owning their own inefficiencies.
+
+And what makes it worse? I sacrificed so much just to get here. I grinded and suffered through school, barely partied, missed out on dates, hanging with friends, and so many aspects of fun, just so I could make it in this field. Every summer, I was at an internship or some tech camp, while everyone else was out enjoying life. I spent countless hours learning and implementing reinforcement learning, petabyte-scale data systems, GPUs, Polars—because I loved it. I just wanted to be a real practitioner, to advance the field.
+
+And for what? To end up in places that don’t value me, where my effort is constantly questioned, and where I have to prove myself over and over again.
+
+People have said wild shit to me at work—stuff that made my friends in other industries say “WTF?” The way my work is scrutinized, the way I get pushed out of roles, the way my competence is questioned—it’s not just bad luck. It’s a pattern.
+
+This time, my manager put me on a performance plan (PACS)—but the bigger issue? I literally couldn’t do my job because my work laptop was down for weeks (1month). IT was slow as hell, I escalated it multiple times, checked in every single day, and tried to be productive without access—but none of that mattered. Instead of acknowledging that this was out of my control, my manager made it about me not being “proactive.”
+
+And to this day? My laptop still doesn’t work.
+
+And here’s where it gets insane—the deadline she’s blaming me for missing was never in writing. It was a casual, verbal “shoot for Thursday” in passing. Now, she’s using that as justification for putting me on a plan. If this was so critical, why wasn’t it documented? She even tried to pressure me into signing something, and I refused.
+
+At this point, I feel like I’m being set up to fail—and honestly, I just feel defeated. I have a math degree and a master’s in computational data science, and all I really want is to do the work, push the field forward, and solve real problems, and use software to make the world a more equitable and charitable place. Even when I made money in this field I always donated my own money underrepresented
+stem programs or charities. But everywhere I go, I run into politics, performance reviews that don’t reflect reality, managers who only care about covering themselves, and hurtful comments that keep me up at night. I try to sit and even leetcode after work but I just get discouraged when I can’t solve the question and then just yearn to build projects that actually do something
+
+I try to exercise and keep healthy, but it just seems like every good tactic won’t work out for me.
+
+For those of you who’ve been in this position—how do you keep going? How do you stay motivated? I don’t want to be a doomed, but I just…..",rant
+"What small/everyday inconveniences would you wish to be solved?
+I'm curious —Are there any everyday annoyances or small inconveniences you wish an app or website could fix? Maybe a task that takes up too much time, a process that feels outdated, or something you just wish was more convenient.
+
+No issue is too small. What would make your life easier?
+Thanks in advance!",question
+"Very Conflicted About My Job Situation (Rant & Need Advice)
+Backstory, I graduated in May 2022 with a Bachelors degree in Computer Science. I moved to the Bay Area in October and started working at a big-tech company in October 2022 and was laid off in November 2022 like a lot of other folks were in the area. I spent 6 months trying to find a new job and was given an offer at a mid-tier tech company in April 2023.
+
+Since then I have spent 3 months at this company and all I want to do is quit. My manager is not technically competent at all, and does not value my advice or anyone's for that matter who she does not like. I know this because we wasted 3 months on a project I suggested would be infeasible and it turned out to be infeasible for the exact reasons I explained earlier via email. The nail in the coffin to me was that our CI/CD system allowed unrunnable code to get onto mainline which caused a blocker for our team and a few Sev2s on production and nobody is doing anything about it. So when I asked my manager if I could solve this issue since I do have the knowledge to do so, they said something along the lines of it's not worth anyone's time right now and it's my (manager's) decision who works on what and I (me) should stop being so difficult since I was questioning why they were downplaying this issue.
+
+The culture in this company is the polar opposite of my previous company if I had to compare. My previous company was completely bottom-up driven and managed by some of the smartest people I have ever met. The culture here is totally top-down and the management is clueless as to what fosters proper engineering since they themselves are not even engineers. It's honestly a joke if you ask me.
+
+I really want to quit and just focus on grad school or finding a job with culture like my old one but I am concerned about having only 4 months of experience on my resume after combining my old job and current job.
+
+Hopefully someone can share their thoughts on this situation as its deteriorating my mental health now. I love software engineering and I've lost it with how my current company is run.",rant
+"Why is everything on this subreddit so pessimistic.
+Why are you guys so desperate, I never saw a post that is actually untroubled, are CS degrees that fucked? at least for the next 3 years?",rant
+"Does my prof hate me?
+I am a second year CS major, and I have this rude professor. From the first day, I had bad vibes from him since he made this sexist comment about w his wife and generalized it to all women. It was all fine until I started asking him for help with the lab questions a week ago. First instance, we were told to code in c, which was a new programming language for me although I am familiar with Java. I wasn’t aware of the print statement requirements to print a double like the whole “%f”, so I was using “%d” in my print statement. However, I wasn’t aware that was my problem, so I was jumping thru hoops to try to fix it. Also we had to code in the terminal which was a pain. I asked him for help and he pointed it was my print statement, and I also had changed my code a little bit: I had increased an variable in both the my while loop condition and inside the loop and I asked him if I should remove it. He didn’t answer it directly and when I asked him again he lashed out and said it was a simple logic problem that I should already know how to solve it I’m in this class.
+
+Today, was lab day again and since I missed his lecture I looked thru the notes and watch videos on shell scripting and when I tried to apply a header on from a video on the lab problem( I had already tested a simple shell script with that header “#! Usr/bin/bash”, so I thought it was supposed to like that), he lashed out in front of the whole class saying, “ if you are watching YouTube videos what am I here for why are you even coming to class for. “ This whole situation kind of put pressure on me and gave me anxiety and I just wanted to leave his class. I also got a D on the lab cause I used “touch filename” to create a file and we never learned the touch command in his class and I stupidly forgot to use else statement. Does this guy have a problem with me or am I being sensitive?",rant
+"Have you ever reached a point where you just hated this major?
+If yes, did it pass? Did you get through it and move on? Did you manage to push past this phase without dropping out?
+
+I know I tend to be impatient and jump to conclusions, but I really need to take a step back and hear from people who’ve been through the same. Seeing my grades just made this feeling of frustration and hate grow even stronger. Compared to the rest of the class, I probably can still pass the year. I've seen people with better grades than mine still fail, but I don’t want to assume that’s the rule or something that’s bound to happen to me.",advice_seeking
+"If you're stressed out, get OFF this sub!!!
+Okay, not really, yall are cool. But this sub has turned to a LOT of miserable people posting the same 3 titles over and over and over again - ""job market cooked"", ""i should have done x/y/z instead"", and ""don't do CS"". It gets tiring reading the same exact posts and same exact questions everyday.
+
+I guess this is the kind of subreddit people don't really post when they are doing well, and i do have a lot of empathy for anyone navigating this current market which I am too! but, it definitely ends up being an echo chamber at times. i have also found a lot of gatekeepers on this sub, which is weird since it's meant to be for CS majors in college, not senior engineers with 30 years exp. I believe everyone in here can and will be great engineers who accomplish a lot over their careers/lives.
+
+My advice is keep working on github and personal projects. Try to get internships, even post-grad internships are fine, I landed a post-grad internship and it gave me a LOT of peace of mind. Networking sucks but you gotta do it, reach out to recruiters, managers, and engineers at companies you're interested in and ask for informational interviews. Ask them what they enjoy about their job, advice they have for you, what they would do differently if they were just starting out in their careers, etc. 7 out of 10 times, if this goes well, the person themselves will offer to refer you to a role at their company. 2 out of the other 3 times, you can probably follow-up and ask for a referral and they'll most likely be happy to. Maybe one in 10 people won't.
+
+My ex was in a similar position to a lot of people in this sub, and switched into CS as a sophomore so had very little experience. by the time grad came around last year my ex made a personal website/portfolio and worked on 3-4 really cool projects and put them up. This generated a really solid talking point for most interviews and resulted in getting 2-3 interviews in a short time and 2 offers (all this was within this past year and specifically within the past few months so it's not like it was ""back in an easier market"" or anything).
+
+Since most ppl in here are in an early career, or navigating a first job/internship search, it's important to think about where you see yourself 5,10-ish years from now and work backwards - don't lose sight of the bigger picture. Finding the first job is gonna be hard but it'll make finding the second, third, and fourth jobs - and getting raises and promotions - easy in the long-term.
+
+Also there is also more to CS than just SWE and ML which for some reason most of this sub just seems to overlook. Keep your options open!!",opinion
+"Annoying CS majors
+Everyone comes in here crying about “omg the job market” “omg I’m cooked” “omfg I regret majoring in CS”… you do know you don’t have to be a SWE and a CS degree is super versatile to where you can apply to any tech or IT position or even QA position? Yes the job market is bad but it’s bad E V E R Y W H E R E! No one is hiring for ANY role! Money was cheap during the pandemic, companies over hired and now money is expensive and the same companies are expected to produce results with the same amount of money. Im young too but some of u guys are either REALLY young or just aren’t thinking with the right head. Too much crying and not enough DOING.
+
+
+",rant
+"Why aren't people complaining about other jobs?
+There are literally hundreds of other jobs and majors yet people only complain how CS majors are cooked? Like what about engineering majors, accounting majors, business majors, psychology majors, ... Like what about those majors? they are *worse* in terms of major besides engineering ranking but nobody seems to be complaining?
+
+
+",question
+"Freshman fall gpa/Slight rant
+Just how closely do people look at your grades in college? My multi professor is ridiculous, our first midterm had an average of around 45%ish and the highest grade ive ever heard of so far is an 80. No curve no nothing. I'm not even so confident about getting a B anymore
+
+Generally when you apply to your first internships and research, how significant of a role does gpa play in yalls experience?",question
+"I was humbled after finals
+Let me explain… Final grades came out and I had a mix of emotions, both angry and upset and I kind of lost motivation to finish school. I would just like some words of encouragement to pull myself through. Or if anyone can share their comeback story I would appreciate it.
+
+I got straight D’s for my final grades in every class I took this semester, with a percentage of 68-69 percent. The 3 classes were the infamous Data Structures (Java), Computer Systems and Programing (C), and lastly Formal Methods and Models (Discrete Mathematics).
+
+Now I will take accountability and say for my discrete mathematics course, I could’ve put more effort since I was dedicating my time into C and Java so I will own up to that.
+
+For Java and C that really had me upset, only because the amount of TIME spent on learning the material for the course, I went to both office hours in the course many times and the projects I did well on, but atlas the reason why I failed was because of the final exam (weight on the final is worth 45 percent).
+
+We were allowed to use a cheatsheet and I based my cheatsheet from the midterms I did well on along with notes but all in all it wasn’t enough, and it really feels like a slap in the face.
+
+All I need to pass was a 70 percent and for my major its very rare that professors curve, so what I get is final.
+
+So I’m at a loss, I put the work in and get slightly less than average and then the classes I need are pre-requisites for my senior level courses.
+
+Feeling bummed going into winter break but I’m wondering if anyone has dealt with this before…
+
+Thanks!!",rant
+"Question about internships / coop
+I’m a second year computer science student, and applying to coop/internships for the first time. I do not have any job experience but 5 full stack projects, can someone be honest with me and tell me if that is enough to stand a decent chance? I just want at least one internship or coop throughout my university
+
+Some people in my year have not done any projects at all so I can say I’d consider myself to have a somewhat chance amongst people my age possibly, but then I also need to consider people who already have internship experience has my main competition
+
+I really don’t know what to expect and just want to get some insight",advice_seeking
+"Questions for a prospective CS Major
+From reading a bit on here, I know the market sucks right now, I’m not here to ask about that but a few other things since I still want to major in CS
+
+Are companies more likely to care if you go to a top 50 college overall, or top 50 computer science college specifically?
+
+Asking because I’m debating on CU Boulder (#39) but I don’t know if I’m better off trying to go to a better university overall than specifically a better CS school (or does it not matter if it’s not t20?). Also if I’m shooting for Purdue, is that considerably better that it’s worth extra cost?
+
+2. Is there a major/minor alongside CS that makes you standout to jobs?
+
+I was looking at applied maths or stats but someone advised me otherwise
+
+3. Is computer engineering considered more stable?
+
+I’ve read some things that say they get the same jobs, others that say there are better opportunities
+
+Thanks!
+
+
+",question
+"Minor question
+I’m currently in my second year in my CS degree, with an emphasis in full stack web development. I recently saw a minor at my university for digital media that seemed pretty interesting. It would be about 20 credits, and a lot of my classes for the minor could be focused on UI/UX design, audio, and animation for applications. Would this time be better spent on a MS in CS, or should I do the minor to broaden what I can do as a web developer?
+
+
+",advice_seeking
+"Honest question for people in industry.
+I’m a CS student at UNC Charlotte (UNCC), which is a solid school but not a top / prestige CS program. By the time I graduate, I’ll have around 5 years of professional full-stack experience at the same company (real production work, not just internships).
+
+At that point, does school name still carry much weight when applying to SWE jobs (FAANG, top tech, etc.), or are candidates mostly evaluated as experienced engineers regardless of where they went to school?
+
+Appreciate any insight.",question
+"Man, what was your path. I’m just starting school and I need some guidance",advice_seeking
+"Is doing the T100 Neetcode Questions good enough for Fall Interships
+Context: 2nd Year student, T10 Uni, Ass GPA and on 3rd internship hunt of uni.
+
+Aiming for F500 and big tech ish companies",question
+"Here’s an actual CS question.
+I’m learning C malloc and calloc for a class, someone explain to me the difference between heap memory and stack memory if that’s even correct I don’t know where to even start. Maybe my question is more regarding high memory and low memory? Idefk. What is size_t data type in C? What does a pointer to a struct initially point to? The first member? Shid hardt bruh.
+
+
+",question
+"Practice on what?
+tldr: What should I practice on to prepare for the software development industry?
+
+So, I have been in school for computer science for 2 years now. I’ve been through data structures, learned multiple programming languages, and some of the inner workings of how software is built. My only issue is that outside of the classroom, I have no idea what to practice on lol. I literally stare at my IDE thinking of what to code, but just can’t come up with anything. I feel this mental blockade that isn’t allowing me to practice is only holding me back in the industry. I would like advice on steps I could take to refine my skills and learn more as I go on because once my time comes to join a legit team, I don’t want to be the odd one out because I didn’t do enough work. If that makes sense. Classroom is 100% different to real projects, so I’d like to know some real world skills to work on in the real of software development.",advice_seeking
+"How would you find a hackathon to join and what sites should I go to? I will definitely try to master one language. Definitely not C++ lol, I’m burnt out on that. Also, haven’t really thought of how much I could put on a portfolio, so I’ll definitely look on that! Thank you!",question
+"Can you ask for a different interview question?
+So a couple weeks ago I watched a video on preparing for interview questions and the person in the video said that the interviewer usually asks you to let them know if you’ve seen the interview question before so that it’s all fair and stuff and so they can get you a new one if you have.
+
+Now first of all do people actually ask for a different question if they already know the answer to the one they’re being asked? Like isn’t that kinda the greatest thing that could possibly happen? I don’t know, maybe I’m just looking out for myself and not really caring about the fairness of the interview but still…
+
+Also, let’s say I go in and it’s a question I know for a fact there’s no way I can solve. Could I just lie and say that I’ve seen the question before or do they ask you to prove that you actually know how to solve it? Like what’s stopping people from just telling the interviewer they’ve seen the question and reroll for a hopefully easier one?
+
+This entire question is based on the fact that the interviewer actually asks you if you’ve seen the question or if it’s even a thing that you can tell the interviewer you know the answer already, so if that’s not a thing then sorry for wasting everyone’s time lol.",question
+"What do you say when people ask what you're doing?
+For example a family member asks what computer science is.",question
+"What algorithm can be used to solve this sort of question?
+So if I’m given a two numbers as a range, like 80 and 120 inclusive. How do I find all numbers that are distinct within this range?",question
+"Can you make the question clearer? Even with the example you gave in comments, I have no idea what you are asking... what do you mean by ""numbers"" (do you mean digits?) What do you mean by distinct (no repeated digits)?",question
+Could you send the link?,question
+"Is it a list or just 2 numbers defining a range like [a,b]? Also, types of a and b?",question
+"There is nothing dishonest about not revealing to the interviewer that you’ve seen the question before
+I don’t even see it as an “honesty” thing. This is just pure luck the result of preparation. When you’re doing an exam do you go up to the prof and say “sorry I’ve seen this question before, can I get a different one?”
+
+No one has ever done that in the history of exams, and it’s not “dishonest”. Also, it’s not the candidate’s fault if the interviews are designed by the company in such a way that a candidate could have seen the question on leetcode. This is what preparation is about, after all.
+
+I don’t even know why this is a question. Just answer the interviewer’s challenge and call it a day",opinion
+"Question about solving interview questions too fast?
+I’ve really been back and forth in my head about the better way to go.
+
+Say you get a question you’ve seen, or you just figure out solution really fast, like all coded and 30 minutes left. Is it better, to just instantly solve and show off the genius levels, or to play dumb and “think” about it for a few minutes?
+
+I just wonder if you’d get another question in the case you find a solution really fast.
+
+LMK your experiences!",question
+"Need Advice for EXPLORE
+Explore is opening today, But I am worried about applying from the same email I applied last time, since they opened SWE intern, I applied to all the locations in USA, Like I have over 25 applications for the summer of 2024 in Microsoft action Centre.
+
+So, should apply for EXPLORE from another ID? I am worried applying to many would have bad impact on my application. EXLPORE is my biggest hope for next summer.
+
+Please someone tell me what I should do.????",advice_seeking
+"The Industry is Rigged, and I'm Tired of Pretending Like it isn't",rant
