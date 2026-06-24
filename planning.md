@@ -96,6 +96,8 @@ A post that combines a mix of two of the labels or even three will be ambiguous 
 
 Another hard edge case is that the difference between advice_seeking and question might be too slim. A lot of posts asking for advice are questions. This could confuse the model. I will make sure to reduce confusion in the model by labeling any question asking for tips to improve personal circumstances as advice. Any question that is general and not meant for improving oneself will be labeled as question.
 
+For any post that feels like a combination of 2 labels, I will ask myself, what is the main focus of the post? Which label received majority number of words? This is how I will categorize edge cases.
+
 ## Data collection plan: Where will you collect examples? How many per label? What will you do if a label is underrepresented after 200 examples?
 I will collect my examples from posts and comments under the r/csMajors community. If a label is underrepresented after 200 examples, I will update my search to reflect the kind of post that I am looking for. This will help me find the more niche posts that fall under my underrepresented label.
 
