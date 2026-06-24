@@ -2,7 +2,7 @@
 I chose csMajors because there has been a rise of anxiety over the current job market amongst CS students and experienced professionals. Due to this, the community receives a lot of regular posts seeking advice to stand out in the job market, expressing anxiety over their future, or expressing their opinions and hot takes regarding the future of programming and software engineering. This community is therefore a good fit for a classification task because of the repetitive patterns followed by the posts. By classifying the posts in this subreddit, I will be able to analyze the differences in the posts better and understand the regular patterns between posts. This will benefit the community as it helps them better understand the recent trends in people's attitudes towards CS in the subreddit.
 
 ## Labels: advice_seeking, opinion, reaction, question
-### advice_seeking: A label that represents posts that are asking for advice regarding their CS majors.
+### advice_seeking: A label that represents posts that are asking for advice regarding their CS majors. Advice can be asked on how to improve oneself.
 **Example 1**: 
 "Should I make a reasearch based fyp or product based fyp?? Graduating next year 2027"
 
@@ -29,7 +29,7 @@ What is a reasonable expectation for a software engineering intern?"
 There's something about recent graduates nowadays, where they overestimate how competent they are.
 But the job market sucks, that's true."
 
-### rant: A label that represents people expressing their concerns over recent trends or anything that enrages them about the CS major and its community.
+### rant: A label that represents people expressing their concerns over recent trends or anything that enrages them about the CS major and its community. This label has anger in its core.
 **Example 1:**
 "I'm losing all hope in the job search - need motivation
 I've just come up on a year of job hunting since I graduated last year for Data Science and after hundreds of job applications, I've gotten a grand total of 2 interviews, both of which went nowhere.
