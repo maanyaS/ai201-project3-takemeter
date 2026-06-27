@@ -7,18 +7,50 @@ I chose csMajors because there has been a rise of anxiety over the current job m
 "Should I make a reasearch based fyp or product based fyp?? Graduating next year 2027"
 
 **Example 2**:
-"What is expected of an intern?
-For context I’m doing a backend software engineering internship at a fortune 500 company.
+"Here's how I'm currently thinking about my future. What perspective might I be missing?
+Here's how I'm currently thinking about my future. What perspective might I be missing?
 
-And lately it feels like the expectation is insane for someone still learning. I understand that internships are meant to be challenging, and I do want to contribute meaningfully. But at times it feels less like “learn while contributing” and more like I’m expected to operate close to a full-time engineer with much more experience. It’s kinda hell when you’re the only intern/junior level dev in the team too.
+Current situation:
 
-Additional context: i have merged reviewed request to main for a service that’s actively in production.
+21 years old
 
-I’m working on backend tasks in prod, and have been questioned on my pace. Tbh I don’t mind being pushed, but I’m finding it hard to tell whether this is normal industry expectation or whether the bar is unusually high because AI exists.
+Computer Science student
 
-TLDR:
-For people who have been interns, mentored interns, or worked with backend interns:
-What is a reasonable expectation for a software engineering intern?"
+Learning web development
+
+Building demo websites
+
+Trying to get freelance clients
+
+Interested in business and entrepreneurship
+
+Long-term goal is building significant wealth and eventually owning scalable businesses
+
+My current thinking is:
+
+Learn a valuable skill.
+
+Get clients and gain real-world experience.
+
+Increase income.
+
+Build systems and processes.
+
+Eventually build something that can scale beyond my own time.
+
+On paper, this seems reasonable, but I've noticed that people who are much further ahead often see things that younger people completely miss.
+
+If you were looking at this plan from the outside:
+
+What assumptions might be wrong?
+
+What would you challenge?
+
+What important factor am I underestimating?
+
+What blind spot do you think someone in my position is most likely to have?
+
+I'm not looking for motivation. I'm interested in perspectives that could save me years of going in the wrong direction."
 
 ### opinion: A label that represents people expressing their beliefs and opinions regarding the future of CS or the present competition in the CS community, or any other thoughts in general. This label also accounts for personal anecdotes of people who might be giving advice to other students.
 **Example 1:**
