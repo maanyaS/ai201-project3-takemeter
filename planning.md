@@ -157,9 +157,8 @@ My model will be successful if it can successfully help the Reddit community und
 
 3. Confusion between adjacent labels should be low — mixing up rant and opinion is more forgivable than mixing up rant and question, since those are conceptually further apart.
 
-## AI Tool Plan section to your planning.md. This project's workflow is different from implementation projects — there's no code to generate, so your plan should cover the three places where AI tools actually help here:
+## AI Tool Plan section
 
-Label stress-testing: Give the AI your label definitions and edge case description, and ask it to generate 5–10 posts that sit at the boundary between two labels. If it produces posts you can't classify cleanly, your definitions need tightening — do that now, before you annotate 200 examples.
-Failure analysis: Plan to give your list of wrong predictions to an AI tool and ask it to identify patterns before you write up your evaluation. Note what you'll look for and how you'll verify the patterns yourself.
-
-## AI Usage
+**Label stress-testing:** I gave the Claude AI my label definitions and edge case description, and asked it to generate 10 posts that sit at the boundary between two labels. If it produced posts I couldn't classify cleanly, my definitions would need tightening. After receiving the 10 sample posts, I was able to classify them all into categories, meaning that my definitions for each label did not have overlap.
+**Re-evaluating labels:** I plan to give my finished CSV file to Claude AI to run through all my texts and corresponding labels and to detect whether any label seemed out of place based on the label definitions, edge case rules, and sample labeled examples that I gave it. Based on the posts that Claude came back to me on, I would reread those posts and decide whether the label I had initially assigned was accurate or not. 
+**Failure analysis:** I will list all the wrong predictions made by the fine-tuned model to Claude AI and ask it to identify patterns before I write up my evaluation. I will look for common mislabelings and verify the patterns myself by checking if common mislabelings were actually prevalent and whether the text was and edge case that caused the mislabeling.
