@@ -109,7 +109,7 @@ I give up. "
 ### question: This label represents questions people have about the CS major in general. This label does not include questions about advice to improve a person's CS situations. The label is mainly for questions that show a curiosity about how things work, rather than questions on how one can improve themselves.
 **Example 1:**
 "Would I'd be considered underemployed if I joined the army as a cyber operations specialist?
-The title basically. I will graduate with a software engineering degree and I'm done with leetcode, I'm just not fast, I can understand the questions and find solutions, but it takes me too long to write them, also sometimes I straight up just don't understand how the solution comes to be sorted in the way presented. Also my math is not mathing, for every 200 apps I might've gotten 2 interviews. I already took the asvab and got an 88, for those saying join as an officer, you don't pick your job, and the application process is very selective. I also discarded the space force and the air force for this very motive edit: (you don't pick your job)."
+The title basically. I will graduate with a software engineering degree and I'm done with leetcode, I'm just not fast, I can understand the questions and find solutions, but it takes me too long to write them, also sometimes I straight up just don't understand how the solution comes to be sorted in the way presented. Also my math is not mathing, for every 300 apps I might've gotten 2 interviews. I already took the asvab and got an 88, for those saying join as an officer, you don't pick your job, and the application process is very selective. I also discarded the space force and the air force for this very motive edit: (you don't pick your job)."
 
 **Example 2:**
 "Where is the evidence that the hiring bar is significantly higher now?
@@ -141,8 +141,8 @@ For any post that feels like a combination of 2 labels, I will ask myself, what 
 
 
 
-## Data collection plan: Where will you collect examples? How many per label? What will you do if a label is underrepresented after 200 examples?
-I will collect my examples from posts and comments under the r/csMajors community. If a label is underrepresented after 200 examples, I will update my search to reflect the kind of post that I am looking for. This will help me find the more niche posts that fall under my underrepresented label.
+## Data collection plan: Where will you collect examples? How many per label? What will you do if a label is underrepresented after 300 examples?
+I will collect my examples from posts and comments under the r/csMajors community. If a label is underrepresented after 300 examples, I will update my search to reflect the kind of post that I am looking for. This will help me find the more niche posts that fall under my underrepresented label.
 
 ## Evaluation metrics: Which metrics will you use to evaluate your model and why are those the right ones for this specific task? (Accuracy alone is not enough — explain what else you need and why.)
 I will evaluate if the model is accurate or not. I will do this by using a:
